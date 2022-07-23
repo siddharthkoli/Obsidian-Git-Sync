@@ -7,12 +7,10 @@
         "id": "75c74f4ebf1f17ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "Strings/Longest Common Substring.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
+            "file": ".obsidian/workspace",
+            "staged": false
           }
         }
       }
@@ -78,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/Longest Common Substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/Longest Common Substring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,23 +113,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Strings/Longest Common Substring.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "510ddabb038f93dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7a54e26ad69438b6",
   "lastOpenFiles": [
+    "Strings/Longest Common Substring.md",
     "Graphs/Strongly Connected Components.md",
     "Arrays/Maximum Product Subarray.md",
-    "Strings/Longest Common Substring.md",
     "Untitled.md",
     "Strongly connected components.md"
   ]
