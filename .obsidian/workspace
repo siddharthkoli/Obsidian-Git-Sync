@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "d7f6408cd1ad3f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c74f4ebf1f17ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Strings/Longest Common Substring.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "706c949f0f4a9821",
+    "type": "split",
+    "children": [
+      {
+        "id": "090a0be571fada9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a54e26ad69438b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "259196d1ece512ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#kadane",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44d81fdcd03a106d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44edaff412da4933",
+    "type": "split",
+    "children": [
+      {
+        "id": "b883af0e9f7882b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d16ce6eb6be754f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Strings/Longest Common Substring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84ae4904e79ec541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Strings/Longest Common Substring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af5f5c3c354d9ea5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19528588f82a0c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Strings/Longest Common Substring.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a54e26ad69438b6",
+  "lastOpenFiles": [
+    "Graphs/Strongly Connected Components.md",
+    "Arrays/Maximum Product Subarray.md",
+    "Strings/Longest Common Substring.md",
+    "Untitled.md",
+    "Strongly connected components.md"
+  ]
+}
