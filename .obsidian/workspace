@@ -123,6 +123,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "fd0861422d78357a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -131,7 +139,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7a54e26ad69438b6",
+  "active": "75c74f4ebf1f17ff",
   "lastOpenFiles": [
     "Strings/Longest Common Substring.md",
     "Graphs/Strongly Connected Components.md",
