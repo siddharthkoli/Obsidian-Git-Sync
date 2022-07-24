@@ -19,8 +19,8 @@ public boolean backspaceCompare(String s, String t) {
         return sbr.toString();
     }
 ```
-Time:
-Space:
+Time:O (n + m)
+Space: O(n + m)
 
 Approach 2: using two pointers
 Start pointing the 2 strings from the end and store a variable which keeps a track of number of '#' characters are present in the string.
@@ -87,7 +87,7 @@ class Solution {
     
 }
 ```
-Time : O(s.length + t.length)
+Time : O(n + m)
 Space: O(1) 
 
 Approach 3: Using stacks
