@@ -22,10 +22,23 @@ for (int i = 0; i < m; i++) {
 
 Time: O(M + log N) [ M = row, N = cols ]
 Space: O(1)
-
+<hr/>
 Approach 2:
 Start from the bottom left corner.
 Move up if current element is greater than target, else move right.
 
 We always start from first col and last row. So if our curr element is greater than target, it has to be present in the above rows because all the elements in the curr row will also be greater than target (since elements in a row are also sorted from left to right).
-When a row is fixed, 
+```cpp
+int m = matrix.size(), n = matrix[0].size();
+int r = m - 1, c = 0;
+while (r >= 0 && c < n) {
+	if (matrix[r][c] == target)
+		return true;
+	matrix[r][c] > target ? r-- : c++;
+}
+return false;
+```
+
+Time: O(M + N)
+Space: O(1)
+<hr/>
