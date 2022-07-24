@@ -87,7 +87,7 @@ class Solution {
     
 }
 ```
-Time : 
-Space:
+Time : O(s.length + t.length)
+Space: O(1) 
 
 Approach 3: Using stacks
