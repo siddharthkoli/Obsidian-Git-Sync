@@ -21,4 +21,4 @@ public boolean backspaceCompare(String s, String t) {
 ```
 
 Approach 2: using two pointers
-Start pointing the 2 strings from the end and store a variable wh
+Start pointing the 2 strings from the end and store a variable which keeps a track of number of '#' characters are present in the string.
