@@ -19,9 +19,12 @@ public boolean backspaceCompare(String s, String t) {
         return sbr.toString();
     }
 ```
+Time:
+Space:
 
 Approach 2: using two pointers
 Start pointing the 2 strings from the end and store a variable which keeps a track of number of '#' characters are present in the string.
+If skips are greater than 0, decrement the pointer and if we do not encounter any '#', just break the loop.
 ``` java
 public boolean backspaceCompare(String s, String t) {
         int S_pointer = s.length() - 1;
@@ -77,3 +80,7 @@ public boolean backspaceCompare(String s, String t) {
         return true;
     }
 ```
+Time :
+Space:
+
+Approach 3: Using stacks
