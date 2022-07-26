@@ -1,0 +1,8 @@
+- [ ]  OS
+	- [ ] Kernel
+	- [ ] Semaphores / Mutex
+	- [ ] Producer - Consumer Problem
+	- [ ] Dining Philosopher's Problem
+	- [ ] Scheduling Algorithms
+- [ ] DBMS
+- [ ] 
