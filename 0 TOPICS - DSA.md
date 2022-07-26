@@ -43,4 +43,11 @@
 - [ ] Linked List
 	- [ ] Reverse
 	- [ ] Doubly - LRU Cache
-- [ ] Priority Queue
+	- [ ] Deletion
+	- [ ] Detect Loop
+	- [ ] Remove Loop
+- [ ] Stack
+	- [ ] Monotonic Stack
+- [ ] Segment Tree
+- [ ] Fenwick Tree
+- [ ] Tries
