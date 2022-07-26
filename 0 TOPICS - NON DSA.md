@@ -60,3 +60,4 @@
 	- [ ] types of Inheritance
 	- [ ] static
 	- [ ] templates
+- [ ] OSI Model
