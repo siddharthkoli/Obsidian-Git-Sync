@@ -51,3 +51,7 @@
 - [ ] Segment Tree
 - [ ] Fenwick Tree
 - [ ] Tries
+- [ ] Deep Copy, Shallow Copy
+- [ ] Longest Common Substring
+- [ ] Longest Common Subsequence
+- [ ] Longest Common Sub
