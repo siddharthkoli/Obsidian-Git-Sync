@@ -1,5 +1,5 @@
 - [ ]  OS
-	- [ ] Kernel
+	- [ ] Kernel [[Kernel]]
 	- [ ] Semaphores / Mutex
 	- [ ] Producer - Consumer Problem
 	- [ ] Dining Philosopher's Problem
