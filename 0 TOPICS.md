@@ -18,5 +18,15 @@
 	- [ ] Normalization
 	- [ ] ACID Properties
 	- [ ] Joins
-	- [ ] Nth Highe
-- [ ] 
+	- [ ] Nth Highest
+	- [ ] Indexing
+		- [ ] Clustered
+		- [ ] Non Clustered
+	- [ ] Group By
+	- [ ] Order By
+	- [ ] 
+- [ ] Design Patterns
+	- [ ] Factory
+	- [ ] Singleton
+	- [ ] Dao Pattern
+	- [ ] MVC
