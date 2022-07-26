@@ -4,5 +4,19 @@
 	- [ ] Producer - Consumer Problem
 	- [ ] Dining Philosopher's Problem
 	- [ ] Scheduling Algorithms
+	- [ ] System Calls
+		- [ ] Pipe (IPC)
+		- [ ] Fork
+	- [ ] Processes
+		- [ ] Zombie
+		- [ ] Orphan
+	- [ ] Deadlock
+		- [ ] Banker's Algorithm
+	- [ ] Threads and Processes
+	- [ ] Paging
 - [ ] DBMS
+	- [ ] Normalization
+	- [ ] ACID Properties
+	- [ ] Joins
+	- [ ] Nth Highe
 - [ ] 
