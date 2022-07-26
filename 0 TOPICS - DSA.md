@@ -1,0 +1,9 @@
+- [ ] Binary Search
+- [ ] Sorting algos
+	- [ ] bubble
+	- [ ] insertion
+	- [ ] quick
+	- [ ] merge
+	- [ ] selection
+	- [ ] heap
+- [ ] 

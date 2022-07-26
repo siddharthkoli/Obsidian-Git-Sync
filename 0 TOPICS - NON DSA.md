@@ -50,6 +50,7 @@
 	- [ ] static
 	- [ ] final
 	- [ ] super
+	- [ ] Generics
 - [ ] C++
 	- [ ] copy constructor
 	- [ ] access modifiers
@@ -58,3 +59,4 @@
 	- [ ] operator overloading
 	- [ ] types of Inheritance
 	- [ ] static
+	- [ ] templates
