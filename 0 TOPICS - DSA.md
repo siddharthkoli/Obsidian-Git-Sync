@@ -1,8 +1,15 @@
 - [ ] Arrays
 	- [ ] Kadane's Algo
 	- [ ] Dutch National Flag
+	- [ ] Boyer-Moore's Voting algo
+	- [ ] Sliding Window
+	- [ ] 2 pointers
 	- [ ] 
 - [ ] Binary Search
+- [ ] Matrix
+- [ ] Dynamic Programming
+	- [ ] 0-1 Knapsack
+	- [ ] 
 - [ ] Sorting algos
 	- [ ] bubble
 	- [ ] insertion
@@ -13,6 +20,18 @@
 - [ ] Strings
 	- [ ] Rabin Karp
 	- [ ] Manacher
-	- [ ] 
+	- [ ] DP
 - [ ] Graphs
+	- [ ] Cyclicity
+	- [ ] Disjoint Set Union
+	- [ ] Connected Components
+	- [ ] Strongly Connected Components
+	- [ ] Topological Sort
+	- [ ] Minimum Spanning Tree
+		- [ ] Kruskal's
+		- [ ] Prim's
+	- [ ] Single Source Shortest Path
+		- [ ] Dijkstra's
+		- [ ] Warshal's
+	- [ ] 
 - [ ] Trees
