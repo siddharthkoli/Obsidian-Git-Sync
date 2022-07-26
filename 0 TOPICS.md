@@ -33,4 +33,11 @@
 	- [ ] MVC
 - [ ] OOPS
 	- [ ] real world eg
-	- [ ] 
+	- [ ] Composition, Aggregation and association
+	- [ ] Diff between abstract classes and interfaces
+	- [ ] Access modifiers in java
+- [ ] C++
+	- [ ] copy constructor
+	- [ ] access modifiers
+	- [ ] friend function
+	- [ ] virtual keyword
