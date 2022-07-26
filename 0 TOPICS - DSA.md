@@ -33,5 +33,14 @@
 	- [ ] Single Source Shortest Path
 		- [ ] Dijkstra's
 		- [ ] Warshal's
-	- [ ] 
+		- [ ] Bridges
+		- [ ] Max flow, min cut
+		- [ ] LCA
 - [ ] Trees
+	- [ ] Traversals - In, Pre, Post
+	- [ ] AVL
+	- [ ] 
+- [ ] Linked List
+	- [ ] Reverse
+	- [ ] Doubly - LRU Cache
+- [ ] Priority Queue
