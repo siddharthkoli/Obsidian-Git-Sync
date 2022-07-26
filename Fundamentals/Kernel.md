@@ -1,0 +1,2 @@
+Kernel is central component of an operating system that manages operations of computer and hardware. It is the core component of the operating system
+It is reponsible for various tasks such as disk management, memory management a
