@@ -24,7 +24,12 @@
 		- [ ] Non Clustered
 	- [ ] Group By
 	- [ ] Order By
-	- [ ] 
+	- [ ] Constraints
+		- [ ] PK
+		- [ ] FK
+		- [ ] Unique
+	- [ ] Triggers
+	- [ ] Union
 - [ ] Design Patterns
 	- [ ] Brief about creational, structural and behavioural
 	- [ ] Factory
@@ -36,8 +41,13 @@
 	- [ ] Composition, Aggregation and association
 	- [ ] Diff between abstract classes and interfaces
 	- [ ] Access modifiers in java
+	- [ ] Inheritance in java
+	- [ ] static
 - [ ] C++
 	- [ ] copy constructor
 	- [ ] access modifiers
 	- [ ] friend function
 	- [ ] virtual keyword
+	- [ ] operator overloading
+	- [ ] types of Inheritance
+	- [ ] static
