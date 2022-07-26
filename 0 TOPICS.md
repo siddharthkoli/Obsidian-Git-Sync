@@ -26,7 +26,11 @@
 	- [ ] Order By
 	- [ ] 
 - [ ] Design Patterns
+	- [ ] Brief about creational, structural and behavioural
 	- [ ] Factory
 	- [ ] Singleton
 	- [ ] Dao Pattern
 	- [ ] MVC
+- [ ] OOPS
+	- [ ] real world eg
+	- [ ] 
