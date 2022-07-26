@@ -40,9 +40,16 @@
 	- [ ] real world eg
 	- [ ] Composition, Aggregation and association
 	- [ ] Diff between abstract classes and interfaces
-	- [ ] Access modifiers in java
+	- [ ] SOLID Principles
+		- [ ] S - Single Responsibilty
+		- [ ] I - Interface segregation
+		- [ ] D - Dependency Injection
+- [ ] Java
 	- [ ] Inheritance in java
+	- [ ] Access modifiers in java
 	- [ ] static
+	- [ ] final
+	- [ ] super
 - [ ] C++
 	- [ ] copy constructor
 	- [ ] access modifiers
