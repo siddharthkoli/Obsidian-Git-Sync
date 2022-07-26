@@ -1,3 +1,7 @@
+- [ ] Arrays
+	- [ ] Kadane's Algo
+	- [ ] Dutch National Flag
+	- [ ] 
 - [ ] Binary Search
 - [ ] Sorting algos
 	- [ ] bubble
@@ -6,4 +10,9 @@
 	- [ ] merge
 	- [ ] selection
 	- [ ] heap
-- [ ] 
+- [ ] Strings
+	- [ ] Rabin Karp
+	- [ ] Manacher
+	- [ ] 
+- [ ] Graphs
+- [ ] Trees
