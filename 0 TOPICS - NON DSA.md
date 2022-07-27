@@ -58,7 +58,7 @@
 	- [x] virtual keyword
 	- [x] operator overloading
 	- [x] types of Inheritance
-	- [ ] static
+	- [x] static
 	- [ ] templates
 	- [ ] abstract classes
 	- [ ] base ref, extended obj
