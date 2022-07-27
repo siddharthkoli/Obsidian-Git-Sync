@@ -55,9 +55,9 @@
 	- [x] copy constructor
 	- [x] access modifiers
 	- [x] friend function
-	- [ ] virtual keyword
+	- [x] virtual keyword
 	- [ ] operator overloading
-	- [ ] types of Inheritance
+	- [x] types of Inheritance
 	- [ ] static
 	- [ ] templates
 	- [ ] abstract classes
