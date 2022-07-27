@@ -56,7 +56,7 @@
 	- [x] access modifiers
 	- [x] friend function
 	- [x] virtual keyword
-	- [ ] operator overloading
+	- [x] operator overloading
 	- [x] types of Inheritance
 	- [ ] static
 	- [ ] templates
