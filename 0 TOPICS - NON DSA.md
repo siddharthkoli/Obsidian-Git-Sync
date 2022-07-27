@@ -60,4 +60,6 @@
 	- [ ] types of Inheritance
 	- [ ] static
 	- [ ] templates
+	- [ ] abstract classes
+	- [ ] base ref, extended obj
 - [ ] OSI Model
