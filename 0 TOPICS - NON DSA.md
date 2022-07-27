@@ -52,9 +52,9 @@
 	- [ ] super
 	- [ ] Generics
 - [ ] C++
-	- [ ] copy constructor
-	- [ ] access modifiers
-	- [ ] friend function
+	- [x] copy constructor
+	- [x] access modifiers
+	- [x] friend function
 	- [ ] virtual keyword
 	- [ ] operator overloading
 	- [ ] types of Inheritance
