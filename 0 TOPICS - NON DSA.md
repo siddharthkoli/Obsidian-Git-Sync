@@ -51,7 +51,7 @@
 	- [ ] final
 	- [ ] super
 	- [ ] Generics
-- [ ] C++
+- [x] C++
 	- [x] copy constructor
 	- [x] access modifiers
 	- [x] friend function
@@ -61,5 +61,5 @@
 	- [x] static
 	- [x] templates
 	- [x] abstract classes
-	- [ ] base ref, extended obj
+	- [x] base ref, extended obj
 - [ ] OSI Model
