@@ -23,3 +23,7 @@ signal(Semaphore s) {
 	s++;
 }
 ```
+
+Working example with processes P1 and P2:
+
+![[Pasted image 20220727132834.png]]
