@@ -59,7 +59,7 @@
 	- [x] operator overloading
 	- [x] types of Inheritance
 	- [x] static
-	- [ ] templates
+	- [x] templates
 	- [ ] abstract classes
 	- [ ] base ref, extended obj
 - [ ] OSI Model
