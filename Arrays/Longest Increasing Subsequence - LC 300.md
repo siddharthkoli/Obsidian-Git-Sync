@@ -37,6 +37,8 @@ int lengthOfLIS(vector<int>& nums) {
 	return sub.size();
 }
 ```
+-   Time: `O(N * logN)`, where `N <= 2500` is the number of elements in array `nums`.
+-   Space: `O(N)`, we can achieve `O(1)` in space by overwriting values of `sub` into original `nums` array.
 
 # DP Approach
 The idea is to start from the end and for every index i, iterate over all the next elements till the end of array and find the lis
@@ -84,3 +86,5 @@ public:
 };
 ```
 
+- Time: `O(N ^ 2)`
+- Space: `O(N)`
