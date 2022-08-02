@@ -12,5 +12,5 @@ public void deleteNode(ListNode node) {
         }
     }
 ```
-Time:
-Space:
+Time: O(1)
+Space: O(1)
