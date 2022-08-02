@@ -47,3 +47,18 @@ public:
     }
 };
 ```
+
+``` java
+ public ListNode reverseList(ListNode head) {
+        if(head == null || head.next == null)
+            return head;
+        ListNode newhead = reverseList(head.next);
+        ListNode headNext = head.next;
+        head.next.next = head;
+        head.next = null;
+        return newhead;
+        
+    }
+```
+Time 
+Space : 
