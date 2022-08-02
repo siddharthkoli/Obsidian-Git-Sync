@@ -30,3 +30,5 @@ public ListNode middleNode(ListNode head) {
     }
 
 ```
+Time:
+Space:
