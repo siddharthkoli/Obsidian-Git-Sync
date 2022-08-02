@@ -25,11 +25,25 @@ class Solution {
 }
 
 ```
-Time Complexity : O(n)
-Space Complexity : O(n)
+Time Complexity :  `O(n)`
+Space Complexity :  `O(1)`
 
 Approach 2 : Recursively
 
 ```cpp
-
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        return revLL(head, nullptr);
+    }
+    
+    ListNode* revLL(ListNode* head, ListNode* prev) {
+        if (head == nullptr)
+            return prev;
+        ListNode* next = head->next;
+        head->next = prev;
+        prev = head;
+        return revLL(next, prev);
+    }
+};
 ```
