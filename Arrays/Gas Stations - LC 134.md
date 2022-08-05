@@ -31,4 +31,4 @@ int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
 }
 ```
 - Time: `O(N)`
-- S
+- Space: `O(1)`
