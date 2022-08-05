@@ -2,9 +2,12 @@ Consider a number `a`, then check for: `a & -a == a`
 Let's say `a` is 8: `0001000`
 -8 is represented as 2's complement: `1111000`
 So the check is:
-	`  0001000
-	`df
-	
+```
+	0001000
+  & 1111000
+  -----------
+    0001000
+```
 
 Finding 2's complement is as follows:
 1. Find the first 1 from the right of the binary representation.
