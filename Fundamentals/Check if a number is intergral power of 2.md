@@ -1,3 +1,4 @@
+#bitwise
 Consider a number `a`, then check for: `a & -a == a`
 Let's say `a` is 8: `0001000`
 -8 is represented as 2's complement: `1111000`
@@ -21,3 +22,11 @@ All the bits to the left will be inverted.
 So in the check, left bits will be 0, and right bits will remain as is.
 
 For any `a` which is NOT an integral power of 2, more than 1 bits are set in the binary representation.
+This changes the 2's complement and the check fails
+eg.
+```
+	0001010
+  & 1110110
+  ----------
+	0000010
+```
