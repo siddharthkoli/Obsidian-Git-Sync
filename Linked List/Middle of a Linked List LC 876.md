@@ -1,4 +1,4 @@
-Approach:
+Approach 1: Brute Force
 1. Calculate the total number of nodes in a linked list
 2. Calculate the mid of the linked list 
 3. Traverse through the list until you do not reach the mid
@@ -32,3 +32,7 @@ public ListNode middleNode(ListNode head) {
 ```
 Time:
 Space:
+<hr/>
+Approach 2: Fast and Slow Pointers
+
+If we move slow pointer by 1 step each, and fast pointer by 2 steps, when fast pointer reaches at the end, slow pointer will 
