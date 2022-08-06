@@ -35,4 +35,26 @@ Space:
 <hr/>
 Approach 2: Fast and Slow Pointers
 
-If we move slow pointer by 1 step each, and fast pointer by 2 steps, when fast pointer reaches at the end, slow pointer will 
+If we move slow pointer by 1 step each, and fast pointer by 2 steps, when fast pointer reaches at the end, slow pointer will reach in the middle.
+``` java
+//Time : o(n)
+//Space : O(1)
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+}
+```
+``` java
+Time Complexity : 0(n)
+Space Complexity : O(1)
+```
+
