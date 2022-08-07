@@ -1,6 +1,6 @@
 - [ ] Arrays
-	- [ ] Kadane's Algo
-	- [ ] Dutch National Flag
+	- [x] Kadane's Algo
+	- [x] Dutch National Flag
 	- [ ] Boyer-Moore's Voting algo
 	- [ ] Sliding Window
 	- [ ] 2 pointers
