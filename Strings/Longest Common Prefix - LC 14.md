@@ -6,6 +6,11 @@
 class Solution {
 	string commonPrefix(string& currPrefix, string& s) {
 		int minLength = min(currPrefix.length(), s.length());
+		for (int i = 0; i < minLength; i++) {
+			if (currPrefix[i] != s[i])
+				return currPrefix.substr(0, i);
+		}
+		return currPrefix.substr(0, minLength);
 	}
 
 public:
@@ -20,3 +25,4 @@ public:
 	}
 };
 ```
+- Time: `O(S)` where `S` is the sum of 
