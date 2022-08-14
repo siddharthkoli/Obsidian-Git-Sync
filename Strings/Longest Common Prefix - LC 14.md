@@ -25,4 +25,5 @@ public:
 	}
 };
 ```
-- Time: `O(S)` where `S` is the sum of 
+- Time: `O(S)` where `S` is the sum total of all characters in `strs`.
+- Space: `O(1)`
