@@ -11,7 +11,7 @@ class Solution {
 	            j = pi[j-1];
 	        if (pat[j] == pat[i])
 	            j++;
-	        pi[j] = j;
+	        pi[i] = j;
 	    }
 	    return pi;
 	}
@@ -32,14 +32,7 @@ public:
 	                j++;
 	        }
 	    }
-	    if (result.empty())
-	        cout << "Not Found\n";
-	    else {
-	        cout << result.size() << "\n";
-	        for (auto x: result)
-	            cout << x << " ";
-	        cout << "\n";
-	    }
+	    return result;
 	}
 };
 ```
