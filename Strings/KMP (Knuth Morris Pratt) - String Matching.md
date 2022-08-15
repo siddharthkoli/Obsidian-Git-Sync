@@ -1,3 +1,5 @@
+![[Pasted image 20220815192045.png]]
+
 ```cpp
 class Solution {
 	vector<int> computeLPS(const string& pat) {
@@ -17,27 +19,27 @@ class Solution {
 public:
 	vector<int> search(string txt, string pat) {
 		vector<int> pi = computeLPS(pat);
-    vector<int> result;
-    int j = 0;
-    for (int i = 0; i < txt.size(); i++) {
-        while (j > 0 && txt[i] != pat[j])
-            j = pi[j-1];
-        if (txt[i] == pat[j]) {
-            if (j == pat.length() - 1) {
-                j = pi[j];
-                result.push_back(i - (int)pat.length() + 2);
-            } else
-                j++;
-        }
-    }
-    if (result.empty())
-        cout << "Not Found\n";
-    else {
-        cout << result.size() << "\n";
-        for (auto x: result)
-            cout << x << " ";
-        cout << "\n";
-    }
+	    vector<int> result;
+	    int j = 0;
+	    for (int i = 0; i < txt.size(); i++) {
+	        while (j > 0 && txt[i] != pat[j])
+	            j = pi[j-1];
+	        if (txt[i] == pat[j]) {
+	            if (j == pat.length() - 1) {
+	                j = pi[j];
+	                result.push_back(i - (int)pat.length() + 2);
+	            } else
+	                j++;
+	        }
+	    }
+	    if (result.empty())
+	        cout << "Not Found\n";
+	    else {
+	        cout << result.size() << "\n";
+	        for (auto x: result)
+	            cout << x << " ";
+	        cout << "\n";
+	    }
 	}
 };
 ```
