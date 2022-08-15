@@ -1,4 +1,11 @@
+### LPS\[i] 
+
 ![[Pasted image 20220815192045.png]]
+So we did encounter the mismatch at some point in the comparison between the pattern and the target text. `**E**` is not equal to `**C**`, what a bummer. However, we can be sure that the pattern sub-string till the pattern pointer matches the target sub-string till the target pointer (red dashed line). Otherwise, we wouldn’t reach this point according to our definition of the second phase. Additionally, our LPS array for the current pattern sub-string tells us that the prefix of length `3` is equal to the suffix (shaded in green). With this information in hand, we can safely move the pattern pointer back to the fourth symbol (the first symbol after LPS) and leave the target pointer at the same place, as demonstrated below.
+![[Pasted image 20220815222756.png]]
+It’s guaranteed that the part of the pattern before the new pattern pointer matched the target string due to the definition of the LPS. It also holds true that we didn’t miss any possible matches between the current target pointer and the index at which we’ve started to compare last time. 
+
+### Since LPS[]
 
 ```cpp
 class Solution {
