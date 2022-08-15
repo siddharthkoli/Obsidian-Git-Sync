@@ -46,3 +46,5 @@ public:
 	}
 };
 ```
+- Time: `O(M + N)`
+- Space: `O(M)`
