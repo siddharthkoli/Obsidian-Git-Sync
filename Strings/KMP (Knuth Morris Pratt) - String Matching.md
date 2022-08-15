@@ -6,7 +6,7 @@ class Solution {
 	    int n = pat.length();
 	    vector<int> pi(n);
 	    for (int i = 1; i < n; i++) {
-	        int j = pat[i-1];
+	        int j = pi[i-1];
 	        while (j > 0 && pat[j] != pat[i])
 	            j = pi[j-1];
 	        if (pat[j] == pat[i])
