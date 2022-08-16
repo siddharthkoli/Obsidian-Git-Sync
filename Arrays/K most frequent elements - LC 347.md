@@ -1,3 +1,4 @@
+#heaps
 # Approach 1: Priority Queue
 1. Calculate frequencies using hash map
 2. Use min heap with comparator to order elements in priority queue according to their frequencies
@@ -96,5 +97,5 @@ public:
     }
 };
 ```
-- Time: `O(N)` when elements can be returned in any order. `O(N `
+- Time: `O(N)` when elements can be returned in any order. `O(N + K * logK)` when elements have to be returned in sorted order.
 - Space: `O(N)`
