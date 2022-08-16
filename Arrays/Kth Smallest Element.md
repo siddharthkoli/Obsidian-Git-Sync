@@ -1,7 +1,7 @@
 # Approach 1: Sorting
 #### Always express K in terms of index
 ```cpp
-int findKthLargest(vector<int>& nums, int k) {
+int findKthSmallest(vector<int>& nums, int k) {
 	std::sort(nums.begin(), nums.end());
 	auto itr = nums.begin();
 	int n = nums.size();
@@ -16,7 +16,7 @@ int findKthLargest(vector<int>& nums, int k) {
 # Approach 2: Max Heap
 #### Use min heap for kth largest and max heap for kth smallest
 ```cpp
-int findKthLargest(vector<int>& nums, int k) {
+int findKthSmallest(vector<int>& nums, int k) {
 	priority_queue<int> queue;
 	for (auto x: nums) {
 		queue.push(x);
@@ -30,7 +30,6 @@ int findKthLargest(vector<int>& nums, int k) {
 - Space: `O(K)`
 
 # Approach 3: Quickselect
-#### Kth from the back means (N - K)th from the front
 #### Always express K in terms of index
 ```cpp
 class Solution {
@@ -58,8 +57,8 @@ class Solution {
     }
 
 public:
-	int findKthLargest(vector<int>& nums, int k) {
-		k = nums.size() - k; // since kth largest from back is n - k from front
+	int findKthSmallest(vector<int>& nums, int k) {
+		k--;
 		return this->quickselect(nums, 0, nums.size() - 1, k);
 	}
 }
