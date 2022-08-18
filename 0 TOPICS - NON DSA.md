@@ -39,7 +39,7 @@
 - [ ] OOPS
 	- [ ] real world eg
 	- [ ] Composition, Aggregation and association
-	- [ ] Diff between abstract classes and interfaces
+	- [ ] [Diff between abstract classes and interfaces](https://stackoverflow.com/questions/479142/when-to-use-an-interface-instead-of-an-abstract-class-and-vice-versa#:~:text=Abstract%20classes%20should%20be%20used,units%2C%20use%20an%20abstract%20class.)
 	- [ ] SOLID Principles
 		- [ ] S - Single Responsibilty
 		- [ ] I - Interface segregation
