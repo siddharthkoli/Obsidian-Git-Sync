@@ -13,3 +13,23 @@ Creating an array of size N initialized to 0, for every value A\[i] which lies i
 
 However, since we are not allowed buckets, we can use the existing array as bucket somehow.
 
+Considering the array with 1-based index, if all numbers > 0 && < N + 1 are placed properly in the corresponding index, the unplaced index will be the answer.
+
+```cpp
+int Solution::firstMissingPositive(vector<int> &nums) {
+    int n = nums.size();
+    int i = 0;
+    while (i < n) {
+        if (nums[i] > 0 && nums[i] <= n && nums[i] != nums[nums[i] - 1]) {
+            std::swap(nums[i], nums[nums[i] - 1]);
+        } else
+            i++;
+    }
+    for (int i = 0; i < n; i++) {
+        if (nums[i] != i+1)
+            return i+1;
+    }
+    return n + 1;
+}
+
+```
