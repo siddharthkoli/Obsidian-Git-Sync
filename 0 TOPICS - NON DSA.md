@@ -15,7 +15,7 @@
 	- [ ] Threads and Processes
 	- [ ] Paging
 - [ ] DBMS
-	- [ ] Normalization
+	- [ ] [[Normalization]]
 	- [x] ACID Properties
 	- [ ] Joins
 	- [ ] Nth Highest
