@@ -16,7 +16,7 @@
 	- [ ] Paging
 - [ ] DBMS
 	- [ ] Normalization
-	- [ ] ACID Properties
+	- [x] ACID Properties
 	- [ ] Joins
 	- [ ] Nth Highest
 	- [ ] Indexing
