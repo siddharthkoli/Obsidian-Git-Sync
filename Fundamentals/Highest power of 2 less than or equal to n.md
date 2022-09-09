@@ -12,4 +12,4 @@ Highest power of 2 less than `n` is given by:
 ```
 
 ### How does it work?
-`0x8INT_MAX + 1`
+`0x80000000 (INT_MAX + 1)` is stored as `unsigned int`. That's wh
