@@ -1,3 +1,4 @@
+#bitwise 
 Consider `n`.
 Highest power of 2 less than `n` is given by:
 ```cpp
@@ -12,4 +13,7 @@ Highest power of 2 less than `n` is given by:
 ```
 
 ### How does it work?
-`0x80000000 (INT_MAX + 1)` is stored as `unsigned int`. That's wh
+`0x80000000 (INT_MAX + 1)` is stored as `unsigned int`. That's why it does not overflow.
+Its binary representation is `10000000 00000000 00000000 00000000` i.e. `1` followed by all `0`.
+
+Refer: https://codeforces.com/blog/entry/72437
