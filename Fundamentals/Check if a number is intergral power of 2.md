@@ -1,4 +1,5 @@
 #bitwise
+# Working method
 Consider a number `a`, then check for `a & (a - 1) == 0`
 Let's say `a` is 8: `0001000`
 Subtracting 1 from `a` will give `0000111`
@@ -13,7 +14,7 @@ So the check is:
 For any `a` which is NOT an integral power of 2, more than 1 bits are set in the binary representation.
 This will not result in the check to be all `0`.
 
-#
+# Untested. DO NOT USE
 Consider a number `a`, then check for: `a & -a == a`
 Let's say `a` is 8: `0001000`
 -8 is represented as 2's complement: `1111000`
