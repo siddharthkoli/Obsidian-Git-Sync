@@ -82,6 +82,6 @@ run it by **java A**
 In Java, access specifiers are the keywords which are used to define the access scope of the method, class, or a variable. In Java, there are four access specifiers given below.
 
 -   **Public** The classes, methods, or variables which are defined as public, can be accessed by any class or method.
--   **Protected** Protected can be accessed by the class of the same package, or by the sub-class of this class, or within the same class.
+-   **Protected** Protected members of a class are visible within the package. Therefore, we can only access within the package but can be accessed to the subclasses outside the package through the inheritance only
 -   **Default** Default are accessible within the package only. By default, all the classes, methods, and variables are of default scope.
 -   **Private** The private class, methods, or variables defined as private can be accessed within the class only.
