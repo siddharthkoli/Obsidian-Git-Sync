@@ -35,7 +35,7 @@ main() in Java is the entry point for any Java program. It is always written as�
 -   **main**: It is the name of the method which is searched by JVM as a starting point for an application with a particular signature only. It is the method where the main execution occurs.
 -   **String args[]**: It is the parameter passed to the main method.
 
-### ** Why Java is platform independent?**
+### **Why Java is platform independent?**
 
 Java is called platform independent because of its byte codes which can run on any system irrespective of its underlying operating system.
 
@@ -43,4 +43,7 @@ Java is called platform independent because of its byte codes which can run on a
 
 Wrapper classes convert the Java primitives into the reference types (objects). Every primitive data type has a class dedicated to it. These are known as wrapper classes because they “wrap” the primitive data type into an object of that class.
 
-### ** Constructors and Types**
+### **Constructors and Types**
+Block to initialise objects, same name as that of class and no return types.
+
+Default Constructor - non parameterized constructor. It will be created when no other constructor is created by the user. Its main purpose is to initialize the variables with default values. Its main purpose is to create objects
