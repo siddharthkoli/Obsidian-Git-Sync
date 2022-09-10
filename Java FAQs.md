@@ -25,7 +25,7 @@ JDK is an implementation of any one of the below given Java Platforms released b
 The JDK contains a private Java Virtual Machine (JVM) and a few other resources such as an interpreter/loader (java), a compiler (javac), an archiver (jar), a documentation generator (Javadoc), etc. to complete the development of a Java Application
 
 
-### **Explain public static void main(String args[]) in Java.**
+### **Q2. Explain public static void main(String args[]) in Java.**
 
 main() in Java is the entry point for any Java program. It is always written as **public static void main(String[] args)**.
 
@@ -34,3 +34,7 @@ main() in Java is the entry point for any Java program. It is always written as�
 -   **void**: It is the return type of the method. Void defines the method which will not return any value.
 -   **main**: It is the name of the method which is searched by JVM as a starting point for an application with a particular signature only. It is the method where the main execution occurs.
 -   **String args[]**: It is the parameter passed to the main method.
+
+### **Q3. Why Java is platform independent?**
+
+Java is called platform independent because of its byte codes which can run on any system irrespective of its underlying operating system.
