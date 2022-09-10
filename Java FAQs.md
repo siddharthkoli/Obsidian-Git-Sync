@@ -38,3 +38,8 @@ main() in Java is the entry point for any Java program. It is always written as�
 ### **Q3. Why Java is platform independent?**
 
 Java is called platform independent because of its byte codes which can run on any system irrespective of its underlying operating system.
+
+### **Q5. What are wrapper classes in Java?**
+
+Wrapper classes convert the Java primitives into the reference types (objects). Every primitive data type has a class dedicated to it. These are known as wrapper classes because they “wrap” the primitive data type into an object of that class.
+
