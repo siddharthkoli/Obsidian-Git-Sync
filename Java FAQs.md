@@ -59,4 +59,20 @@ Singleton class is a class whose only one instance can be created at any given t
 
 
 ### **Write Once and Run Anywhere**
-Java's bytecode allows it to have a write once and run anywhere nature. Java compiler converts the Java programs into class file (Bytecode) which is the intermediate language between source 
+Java's bytecode allows it to have a write once and run anywhere nature. Java compiler converts the Java programs into class file (Bytecode) which is the intermediate language between source code and machine code.
+
+### **### Is Empty .java file name a valid source file name?**
+
+Yes, Java allows to save our java file by **.java** only, we need to compile it by **javac .java** and run by **java classname** Let's take a simple example:
+1.  //save by .java only  
+2.  class A{  
+3.  public static void main(String args[]){  
+4.  System.out.println("Hello java");  
+5.  }  
+6.  }  
+7.  //compile by javac .java  
+8.  //run by     java A  
+
+compile it by **javac .java**
+
+run it by **java A**
