@@ -1,6 +1,6 @@
 JVM, JRE, and JDK are platform dependent because the configuration of each [OS](https://www.javatpoint.com/os-tutorial) is different from each other. However, Java is platform independent.
 
-JVM - Java Virtual Machine
+###**JVM - Java Virtual Machine**
 
 JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
 The JVM performs the following main tasks:
@@ -47,3 +47,9 @@ Wrapper classes convert the Java primitives into the reference types (objects). 
 Block to initialise objects, same name as that of class and no return types.
 
 Default Constructor - non parameterized constructor. It will be created when no other constructor is created by the user. Its main purpose is to initialize the variables with default values. Its main purpose is to create objects
+
+Parameterized Constructor - the constructor which is capable of initializing the instance variables with the provided values.
+
+### **What is singleton class in Java and how can we make a class singleton?**
+
+Singleton class is a class whose only one instance can be created at any given time, in one JVM. A class can be made singleton by making its constructor private.
