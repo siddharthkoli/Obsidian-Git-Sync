@@ -58,4 +58,5 @@ Parameterized Constructor - the constructor which is capable of initializing the
 Singleton class is a class whose only one instance can be created at any given time, in one JVM. A class can be made singleton by making its constructor private.
 
 
-**Write Once and Run Anywhere**
+### **Write Once and Run Anywhere**
+Java's bytecode allows it to have a write once and run anywhere nature. Java compiler converts the Java programs into class file (Bytecode) which is the intermediate language between source 
