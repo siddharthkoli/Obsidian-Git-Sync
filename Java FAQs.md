@@ -56,3 +56,6 @@ Parameterized Constructor - the constructor which is capable of initializing the
 ### **What is singleton class in Java and how can we make a class singleton?**
 
 Singleton class is a class whose only one instance can be created at any given time, in one JVM. A class can be made singleton by making its constructor private.
+
+
+**Write Once and Run Anywhere**
