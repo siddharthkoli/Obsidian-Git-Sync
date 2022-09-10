@@ -1,4 +1,8 @@
-
+We can perform 3 actions:
+ - Buy
+ - Sell
+ - Hold
+![[Pasted image 20220910202943.png]]
 ```cpp
 class Solution {
 public:
