@@ -36,3 +36,6 @@ Types
 ### Association
 It is a relationshep between two objects and where one object has its own lifecycle and it is does not have a life owner.
 Eg. a student is associated with multiple teachers and multiple students are associated with a single teacher
+
+### Aggregation 
+Type of association, where all objects have their lifecycle and it has an ownership and child object cannot belong to another parent object
