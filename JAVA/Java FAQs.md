@@ -160,7 +160,9 @@ Class Test{
 ```
 
 ### Java Collections:
-https://www.javatpoint.com/java-collections-interview-questions
-Go through below for theory:
 
+Go through below for theory:
 https://www.javatpoint.com/collections-in-java
+
+Interview questions:
+https://www.javatpoint.com/java-collections-interview-questions
