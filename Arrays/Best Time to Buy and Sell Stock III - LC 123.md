@@ -15,10 +15,11 @@ b\[i]=max(a\[i-1]+prices\[i],b\[i-1]);**
 class Solution {
 public:
     // state machine solution
-    // time: O(N)
-    // space: O(N)
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
+        // time: O(N)
+        // space: O(N)
+        #if 0
         std::vector<int> a(n), b(n), c(n), d(n), e(n);
         b[0] = d[0] = -prices[0];
         for (int i = 1; i < n; i++) {
@@ -29,6 +30,23 @@ public:
             e[i] = std::max(e[i-1], d[i-1] + prices[i]);
         }
         return std::max({a.back(), c.back(), e.back()});
+        #endif
+        
+        // space optimized version of above solution
+        // time: O(N)
+        // space: O(1)
+        #if 1
+        int a, b, c, d, e;
+        a = b = c = d = e = 0;
+        b = d = -prices[0];
+        for (int i = 1; i < n; i++) {
+            b = std::max(b, a - prices[i]);
+            c = std::max(c, b + prices[i]);
+            d = std::max(d, c - prices[i]);
+            e = std::max(e, d + prices[i]);
+        }
+        return std::max({a, c, e});
+        #endif
     }
 };
 ```
