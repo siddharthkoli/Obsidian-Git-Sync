@@ -36,7 +36,9 @@ Types
 
 ### Multiple Inheritance
 -Mulitple inheritance means when a class is inheriting from more than one class, it is called multiple inheritance.
-Java does not support multiple inheritance in classes as it leads to diamond probleambiguity 
+Java does not support multiple inheritance in classes as it leads to diamond problem and it causes ambiguity and the compiler does not understand which super class method to execute.
+This problem can be solved using interfaces as multiple inheritance on interfaces are possible
+
 ### Association
 
 Association refers to the relationship between multiple objects. It refers to how objects are related to each other and how they are using each other's functionality. Composition and aggregation are two types of association.
