@@ -169,3 +169,7 @@ https://www.javatpoint.com/java-collections-interview-questions
 
 -   Vector is synchronized, which means that only one thread can access the code at a time, however, ArrayList is not synchronized, which means that multiple threads can operate on ArrayList at the same time. In a multithreading system, for example, if one thread is executing an add operation, another thread can be performing a removal action.   
     If multiple threads access ArrayList at the same time, we must either synchronize the code that updates the list fundamentally or enable simple element alterations. The addition or deletion of element(s) from the list is referred to as structural change. It is not a structural change to change the value of an existing element.
+
+Priority Queue:
+
+https://www.geeksforgeeks.org/priority-queue-class-in-java/
