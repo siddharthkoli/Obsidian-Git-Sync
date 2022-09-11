@@ -53,6 +53,8 @@ Default Constructor - non parameterized constructor. It will be created when no 
 
 Parameterized Constructor - the constructor which is capable of initializing the instance variables with the provided values.
 
+Constructor chaining - Calling of one constructor from another with respect to current class
+
 ### **What is singleton class in Java and how can we make a class singleton?**
 
 Singleton class is a class whose only one instance can be created at any given time, in one JVM. A class can be made singleton by making its constructor private.
@@ -61,7 +63,7 @@ Singleton class is a class whose only one instance can be created at any given t
 ### **Write Once and Run Anywhere**
 Java's bytecode allows it to have a write once and run anywhere nature. Java compiler converts the Java programs into class file (Bytecode) which is the intermediate language between source code and machine code.
 
-### **### Is Empty .java file name a valid source file name?**
+## Is Empty .java file name a valid source file name?
 
 Yes, Java allows to save our java file by **.java** only, we need to compile it by **javac .java** and run by **java classname** Let's take a simple example:
 1.  //save by .java only  
@@ -85,3 +87,72 @@ In Java, access specifiers are the keywords which are used to define the access 
 -   **Protected** Protected members of a class are visible within the package. Therefore, we can only access within the package but can be accessed to the subclasses outside the package through the inheritance only
 -   **Default** Default are accessible within the package only. By default, all the classes, methods, and variables are of default scope.
 -   **Private** The private class, methods, or variables defined as private can be accessed within the class only.
+![[Pasted image 20220911180053.png]]
+
+### Non Access Modifiers
+- Static :
+--Static Blocks - They are called when the class is first loaded into the memory and it is called before main is called. This code is executed only once. And it is called automatically.
+Static blocks can be executed without the main(). 
+
+-- Static Variables - When a variable is declared as static, then a single copy of the variable is created and shared among all objects at the class level. Static variables are, essentially, global variables. All instances of the class share the same static variable.
+Static block and static variables are executed in the order they are present in a program.
+
+-- Static methods
+When a method is declared with the _static_ keyword, it is known as the static method. The most common example of a static method is the _main( )_ method. As discussed above, Any static member can be accessed before any objects of its class are created, and without reference to any object. Methods declared as static have several restrictions: 
+
+-   They can only directly call other static methods.
+-   They can only directly access static data.
+-   They cannot refer to [this](https://www.geeksforgeeks.org/this-reference-in-java/) or [super](https://www.geeksforgeeks.org/super-keyword/) in any way.
+
+**Use Static variables for properties which are common across all objects. Use static methods to access static variables.
+
+--Static Class : A class can be made static only if it is under some other class i.e. a nested class. Top level classes cannot be made static.
+Static class cannot access non static members of a outer non static class.
+
+- Final Keyword
+Used to restrict the user. If used with a class, cannot inherit the class. If used with a method, cannot override. If used with a variable, its value cannot be changed i.e. constant.
+
+- Abstract : Abstract is a keyword that is used with a class or a method. An abstract class or abstract method is used for further modification. If a class is declared as ‘abstract’, the class cannot be instantiated.
+
+- Synchronized : It is used to achieve thread safeness. Only one thread can enter in a synchronized method or block at a given time.
+
+### Super 
+it is a reference variable that refers to the immediate parent class object.
+When you instantiate a sub-class, the parent class constructor is automatically invoked.
+The uses of the Java super Keyword are- 
+
+1.  To refer to an immediate parent class instance variable, use super.
+2.  The keyword super can be used to call the method of an immediate parent class.
+3.  Super() can be used to call the constructor of the immediate parent class.
+
+### String vs StringBuilder vs StringBuffer
+String - Immutable, less efficient, constant string pool, provides thread safety
+StringBuilder - Mutable, efficient, heap, no thread safety
+StringBuffer - Mutable, less efficient, heap, provides thread safety
+
+String Pool - Java String pool refers to a collection of Strings which are stored in heap memory. In this, whenever a new object is created, String pool first checks whether the object is already present in the pool or not. If it is present, then the same reference is returned to the variable else new object will be created in the String pool and the respective reference will be returned.
+![[Pasted image 20220911181415.png]]
+
+## Dynamic Method Dispatch
+Call to an overridden method is resolved at run time rather than compile time. In this, a overridden method is called thorugh the reference variable of super class.
+
+``` java
+class Car{
+void run()
+{
+ System.out.println(" in car class");
+}
+}
+Class Audi extends Car
+{
+ void run()
+ {
+	 System.out.println("Audi");
+ }
+}
+
+Class Test{
+ Car c = new Audi();
+ c.run();
+}
+```
