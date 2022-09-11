@@ -158,3 +158,6 @@ Class Test{
  c.run();
 }
 ```
+
+### Java Collections:
+https://www.javatpoint.com/java-collections-interview-questions
