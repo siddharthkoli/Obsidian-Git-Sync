@@ -33,9 +33,14 @@ Types
 3.  **Hierarchical Inheritance:** When a class has more than one child classes (subclasses) or in other words, more than one child classes have the same parent class, then such kind of inheritance is known as hierarchical.
 4.  **Hybrid Inheritance:** Hybrid inheritance is a combination of two _or more types_ of inheritance.
 
-### Association
-It is a relationshep between two objects and where one object has its own lifecycle and it is does not have a life owner.
-Eg. a student is associated with multiple teachers and multiple students are associated with a single teacher
+## Association
 
-### Aggregation 
-Type of association, where all objects have their lifecycle and it has an ownership and child object cannot belong to another parent object
+Association refers to the relationship between multiple objects. It refers to how objects are related to each other and how they are using each other's functionality. Composition and aggregation are two types of association.
+
+## Composition
+
+The composition is the strong type of association. An association is said to composition if an Object owns another object and another object cannot exist without the owner object. Consider the case of Human having a heart. Here Human object contains the heart and heart cannot exist without Human.
+
+## Aggregation
+
+Aggregation is a weak association. An association is said to be aggregation if both Objects can exist independently. For example, a Team object and a Player object. The team contains multiple players but a player can exist without a team.
