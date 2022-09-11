@@ -33,4 +33,4 @@ Types
 3.  **Hierarchical Inheritance:** When a class has more than one child classes (subclasses) or in other words, more than one child classes have the same parent class, then such kind of inheritance is known as hierarchical.
 4.  **Hybrid Inheritance:** Hybrid inheritance is a combination of two _or more types_ of inheritance.
 
-### Asso
+### Association
