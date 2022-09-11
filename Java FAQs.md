@@ -67,9 +67,9 @@ Yes, Java allows to save our java file by **.java** only, we need to compile i
   ```java
 //save by .java only  
   class A{  
-  public static void main(String args[]){  
-  System.out.println("Hello java");  
-  }  
+	  public static void main(String args[]){  
+		  System.out.println("Hello java");  
+	  }  
   }  
   //compile by javac .java  
   //run by     java A  
