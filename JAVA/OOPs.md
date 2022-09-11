@@ -34,4 +34,5 @@ Types
 4.  **Hybrid Inheritance:** Hybrid inheritance is a combination of two _or more types_ of inheritance.
 
 ### Association
-It means
+It is a relationshep between two objects and where one object has its own lifecycle and it is does not have a life owner.
+Eg. a student is associated with multiple teachers and multiple students are associated with a single teacher
