@@ -2,6 +2,13 @@ The **lower_bound()** method in C++ is used to return an iterator pointing to 
 This means that the function returns an iterator pointing to the next smallest number just greater than or equal to that number. 
 If there are multiple values that are equal to val, lower_bound() returns the iterator of the first such value.
 
+***Subtracting the first position i.e vect.begin() from the pointer, returns the actual index.***
+
+**To summarize returns:**
+ -  Returns pointer to the position of num if the container contains only **one occurrence** of num
+ - Returns a pointer to the first position of num if the container contains **multiple occurrences** of num.
+ - Returns pointer to the position of a number just higher than num, if the container **does not contain an occurrence** of num
+
 **Input:** 10 20 30 40 50  
 **Output:** lower_bound for element 30 at index 2
 
