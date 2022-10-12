@@ -1,5 +1,7 @@
  It returns an iterator pointing to the first element in the range \[first, last) that is greater than value, or last if no such element is found.
 
+*To find number that is atmost X, find previous of upper_bound of X: *
+
 ***Subtracting the first position i.e vect.begin() from the pointer, returns the actual index.***
 
 **Summarize return values:**
