@@ -47,7 +47,7 @@ public:
     }
 };
 ```
-- Time: `O(N * logK`.
+- Time: `O(N * logK)`.
 - Space: `O(N)`
 
 # Approach 2: Using buckets
