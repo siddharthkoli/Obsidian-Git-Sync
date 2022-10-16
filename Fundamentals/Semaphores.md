@@ -10,7 +10,7 @@ Semaphores are of two types:
 
 Semaphore has 2 operations -
 1. Wait
-``` 
+```
 Wait(Semaphore s) {
 	while(s == 0); // wait until s = 0
 	s--;
