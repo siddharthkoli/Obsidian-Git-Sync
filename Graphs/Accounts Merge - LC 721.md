@@ -111,3 +111,19 @@ public:
     }
 };
 ```
+
+Here `N` is the number of accounts and `K` is the maximum length of an account.
+
+-   Time complexity: `O(NK * log NK)`
+    
+    While merging we consider the size of each connected component and we always choose the representative of the larger component to be the new representative of the smaller component, also we have included the path compression so the time complexity for `find/union` operation is `α(N)` (Here, `α(N)` is the inverse Ackermann function that grows so slowly, that it doesn't exceed `4` for all reasonable `N` (approximately `N < 10^{600}`).
+    
+    We find the representative of all the emails, hence it will take `O(N K α(N))` time. We are also sorting the components and the worst case will be when all emails end up belonging to the same component this will cost `O(NK(logNK))`.
+    
+    Hence the total time complexity is `O(NK⋅logNK+NK⋅α(N))`.
+    
+-   Space complexity: `O(NK)`
+    
+    List `representative`, `size` store information corresponding to each group so will take `O(N)` space. All emails get stored in `emailGroup` and `component` hence space used is O(NK)O(NK).
+    
+    The space complexity of the sorting algorithm depends on the implementation of each programming language. For instance, in Java, Collections.sort() dumps the specified list into an array this will take O(NK)O(NK) space then Arrays.sort() for primitives is implemented as a variant of quicksort algorithm whose space complexity is O(\log NK)O(logNK). In C++ `sort()` function provided by STL is a hybrid of Quick Sort, Heap Sort, and Insertion Sort with the worst-case space complexity of O(\log NK)O(logNK).
