@@ -4,15 +4,28 @@ We chose the account index to be the identifier for all the emails of an account
 
 After traversing over all the accounts, we will find the representative of all the emails which will inform us about their group. Emails with the same representative belong to the same person/group and hence will be stored together. Also, we can retrieve the account name for our final answer using `accountList` as we have `group` which is the index in the original accounts list.
 ![[Pasted image 20221017162421.png]]
+
+<hr/>
+
 ![[Pasted image 20221017162429.png]]
+<hr/>
+
 ![[Pasted image 20221017162433.png]]
+<hr/>
 ![[Pasted image 20221017162437.png]]
+<hr/>
 ![[Pasted image 20221017162445.png]]
+<hr/>
 ![[Pasted image 20221017162450.png]]
+<hr/>
 ![[Pasted image 20221017162454.png]]
+<hr/>
 ![[Pasted image 20221017162500.png]]
+<hr/>
 ![[Pasted image 20221017162504.png]]
+<hr/>
 ![[Pasted image 20221017162508.png]]
+<hr/>
 ```cpp
 class DSU {
 public:
@@ -122,8 +135,8 @@ Here `N` is the number of accounts and `K` is the maximum length of an accou
     
     Hence the total time complexity is `O(NK⋅logNK+NK⋅α(N))`.
     
--   Space complexity: `O(NK)`
+-   Space complexity: `C++ - O(log N * K) / Java - O(NK)`
     
-    List `representative`, `size` store information corresponding to each group so will take `O(N)` space. All emails get stored in `emailGroup` and `component` hence space used is O(NK)O(NK).
+    List `representative`, `size` store information corresponding to each group so will take `O(N)` space. All emails get stored in `emailGroup` and `component` hence space used is `O(NK)`.
     
-    The space complexity of the sorting algorithm depends on the implementation of each programming language. For instance, in Java, Collections.sort() dumps the specified list into an array this will take O(NK)O(NK) space then Arrays.sort() for primitives is implemented as a variant of quicksort algorithm whose space complexity is O(\log NK)O(logNK). In C++ `sort()` function provided by STL is a hybrid of Quick Sort, Heap Sort, and Insertion Sort with the worst-case space complexity of O(\log NK)O(logNK).
+    The space complexity of the sorting algorithm depends on the implementation of each programming language. For instance, in Java, Collections.sort() dumps the specified list into an array this will take `O(NK)` space then Arrays.sort() for primitives is implemented as a variant of quicksort algorithm whose space complexity is `O(logNK)`. In C++ `sort()` function provided by STL is a hybrid of Quick Sort, Heap Sort, and Insertion Sort with the worst-case space complexity of `O(logNK)`.
