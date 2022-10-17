@@ -11,21 +11,29 @@ After traversing over all the accounts, we will find the representative of all t
 <hr/>
 
 ![[Pasted image 20221017162433.png]]
+
 <hr/>
+
 ![[Pasted image 20221017162437.png]]
+
 <hr/>
-![[Pasted image 20221017162445.png]]
-<hr/>
+
+![[Pasted image 20221017162445.png]]<hr/>
+
 ![[Pasted image 20221017162450.png]]
 <hr/>
+
 ![[Pasted image 20221017162454.png]]
 <hr/>
+
 ![[Pasted image 20221017162500.png]]
 <hr/>
+
 ![[Pasted image 20221017162504.png]]
 <hr/>
-![[Pasted image 20221017162508.png]]
-<hr/>
+
+![[Pasted image 20221017162508.png]]<hr/>
+
 ```cpp
 class DSU {
 public:
