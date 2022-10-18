@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upper",
+                "query": "union",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Upper Bound.md"
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
               }
             }
           },
@@ -151,8 +152,8 @@
   },
   "active": "e10cbe201d03bb69",
   "lastOpenFiles": [
-    "Arrays.md",
     "Fundamentals/Upper Bound.md",
+    "Arrays.md",
     "0 TOPICS - DSA.md",
     "0 TOPICS - NON DSA.md",
     "2 Pointers.md",
