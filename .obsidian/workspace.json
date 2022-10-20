@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md",
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md",
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md"
+                "file": "Arrays/Top K Frequent Elements - LC 347.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68ef97071fb31fc9",
+  "active": "13babb9eab62a014",
   "lastOpenFiles": [
+    "Fundamentals/C++ Comparator.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
     "Arrays/Kth Largest Element - LC 215.md",
     "Arrays/Quickselect.md",
@@ -186,7 +187,6 @@
     "Arrays.md",
     "0 TOPICS - DSA.md",
     "0 TOPICS - NON DSA.md",
-    "2 Pointers.md",
-    "31_Next_Permutation.gif"
+    "2 Pointers.md"
   ]
 }
