@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md"
+                "file": "Arrays/Top K Frequent Elements - LC 347.md"
               }
             }
           },
@@ -166,7 +166,7 @@
   "active": "13babb9eab62a014",
   "lastOpenFiles": [
     "Arrays/Kth Largest Element - LC 215.md",
-    "Arrays/K most frequent elements - LC 347.md",
+    "Arrays/Top K Frequent Elements - LC 347.md",
     "Arrays/Quickselect.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Fundamentals/Upper Bound.md",

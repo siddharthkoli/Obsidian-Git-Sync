@@ -99,3 +99,8 @@ public:
 ```
 - Time: `O(N)` when elements can be returned in any order. `O(N + K * logK)` when elements have to be returned in sorted order.
 - Space: `O(N)`
+
+# Approach 3: [[Quickselect]]
+1. Create freq map of numbers.
+2. Convert freq map to vector for using quickselect.
+3. Run quickselect on the freq map
