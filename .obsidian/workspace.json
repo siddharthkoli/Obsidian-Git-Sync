@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "259196d1ece512ce",
+  "active": "e10cbe201d03bb69",
   "lastOpenFiles": [
     "Fundamentals/Upper Bound.md",
     "Arrays.md",
