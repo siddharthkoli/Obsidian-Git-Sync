@@ -30,7 +30,7 @@ int findKthLargest(vector<int>& nums, int k) {
 - Time: `O(N * logK)`
 - Space: `O(K)`
 
-# Approach 3: Quickselect
+# Approach 3: [[Quickselect]]
 #### Kth from the back means (N - K)th from the front
 #### Always express K in terms of index
 ```cpp
