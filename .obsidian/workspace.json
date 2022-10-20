@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Quickselect.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Quickselect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md",
+                "file": "Arrays/Quickselect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/K most frequent elements - LC 347.md"
+                "file": "Arrays/Quickselect.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "13babb9eab62a014",
   "lastOpenFiles": [
+    "Arrays/K most frequent elements - LC 347.md",
     "Arrays/Kth Largest Element - LC 215.md",
     "Arrays/Quickselect.md",
     "Graphs/Union Find (Disjoint Set Union).md",
@@ -173,7 +174,6 @@
     "0 TOPICS - DSA.md",
     "0 TOPICS - NON DSA.md",
     "2 Pointers.md",
-    "31_Next_Permutation.gif",
-    "Normalization.md"
+    "31_Next_Permutation.gif"
   ]
 }
