@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md",
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md",
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/C++ Comparator.md"
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md"
               }
             }
           },
@@ -202,11 +202,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "15af727a335d3c1d",
+  "active": "2497af7d9813daa7",
   "lastOpenFiles": [
+    "Fundamentals/C++ Comparator.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
-    "Fundamentals/C++ Comparator.md",
     "Arrays/Kth Largest Element - LC 215.md",
     "Arrays/Quickselect.md",
     "Graphs/Union Find (Disjoint Set Union).md",
