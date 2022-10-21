@@ -26,7 +26,7 @@ public:
 - Time: `O(N * log K * M)` `M` is size of each string.
 - Space: `O(K)`
 
-# Approach 2: Quickselect
+# Approach 2: [[Quickselect]]
 - STL Version
 ```cpp
 class Solution {
@@ -44,16 +44,8 @@ public:
 - Time: `O(N * M)` where `M` is size of each string.
 - Space: `O(1)`
 ***Writing custom implementation of quickselect is tough to fit in linear time.***
+**Time Limit Exceeded**
 ```cpp
-class MinHeapComp {
-public:
-    bool operator() (string const& a, string const& b) {
-        if (a.length() == b.length())
-            return a > b;
-        return a.length() > b.length();
-    }    
-};
-
 class Solution {
     // cannot compare by converting strings to int using std::stoi
     // because nums[i].length <= 100.
@@ -83,27 +75,12 @@ class Solution {
     
 public:
     string kthLargestNumber(vector<string>& nums, int k) {
-        // quickselect
-        // time: O(N * length of string), space: O(1) excluding recursion
         int n = nums.size();
         k = n - k; // kth largest is n - k from start
         
-        #if 0
-        // custom quickselect implementation.
-        // TLE
         return nums[quickselect(nums, 0, n - 1, k)];
-        #endif
-// ----------------------------------------------------------------------------------------        
-        // stl quickselect
-        // ACCEPTED
-        #if 0
-        std::nth_element(nums.begin(), nums.begin() + k, nums.end(), [&](const string a, const string b) {
-            if (a.length() == b.length())
-                return a < b;
-            return a.length() < b.length();
-        });
-        return nums[k];
-        #endif
     }
 };
 ```
+- Time: `O(N * M)` where `M` is size of each string.
+- Space: `O(1)`
