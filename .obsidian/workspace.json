@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "0 TOPICS - DSA.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minim",
+                "query": "minimum win",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "0 TOPICS - DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "0 TOPICS - DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md"
+                "file": "0 TOPICS - DSA.md"
               }
             }
           },
@@ -198,14 +197,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "259196d1ece512ce",
+  "active": "e10cbe201d03bb69",
   "lastOpenFiles": [
+    "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Quickselect.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Fundamentals/C++ Comparator.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
     "Arrays/Kth Largest Element - LC 215.md",
-    "Graphs/Union Find (Disjoint Set Union).md",
     "Fundamentals/Upper Bound.md",
     "Arrays.md",
     "0 TOPICS - DSA.md",
