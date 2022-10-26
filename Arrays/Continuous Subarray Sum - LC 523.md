@@ -22,3 +22,4 @@ public:
 ```
 - Time: `O(N)`
 - Space: `O(N)`
+Refer: [[Subarray Sum Equals K - LC 560]]
