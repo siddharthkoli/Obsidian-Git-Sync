@@ -60,6 +60,32 @@
             }
           },
           {
+            "id": "f09fc31710e10c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Continuous Subarray Sum - LC 523.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd63e43c9ee1e27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Subarray Sum Equals K - LC 560.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "13babb9eab62a014",
             "type": "leaf",
             "state": {
@@ -107,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/General Substring Problem template.md",
+                "file": "Arrays/Subarray Sum Equals K - LC 560.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/General Substring Problem template.md",
+                "file": "Arrays/Subarray Sum Equals K - LC 560.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/General Substring Problem template.md"
+                "file": "Arrays/Subarray Sum Equals K - LC 560.md"
               }
             }
           },
@@ -236,17 +262,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "08efad5f49c3f071",
+  "active": "bd63e43c9ee1e27e",
   "lastOpenFiles": [
+    "Arrays/Continuous Subarray Sum - LC 523.md",
+    "Strings/General Substring Problem template.md",
     "Strings/Minimum Window Substring - LC 76.md",
     "Strings/Longest Substring Without Repeating Characters - LC 3.md",
-    "Strings/General Substring Problem template.md",
     "0 TOPICS - DSA.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Quickselect.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Fundamentals/C++ Comparator.md",
-    "Arrays/Top K Frequent Elements - LC 347.md",
-    "Arrays/Kth Largest Element - LC 215.md"
+    "Arrays/Top K Frequent Elements - LC 347.md"
   ]
 }
