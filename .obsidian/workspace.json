@@ -39,6 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Strings/Longest Substring Without Repeating Characters - LC 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08efad5f49c3f071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Strings/General Substring Problem template.md",
                 "mode": "source",
                 "backlinks": true,
@@ -94,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b585b8d08e55bab1",
+  "active": "08efad5f49c3f071",
   "lastOpenFiles": [
     "Strings/Minimum Window Substring - LC 76.md",
+    "Strings/Longest Substring Without Repeating Characters - LC 3.md",
+    "Strings/General Substring Problem template.md",
     "0 TOPICS - DSA.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Quickselect.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Fundamentals/C++ Comparator.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
-    "Arrays/Kth Largest Element - LC 215.md",
-    "Fundamentals/Upper Bound.md",
-    "Arrays.md"
+    "Arrays/Kth Largest Element - LC 215.md"
   ]
 }
