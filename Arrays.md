@@ -15,4 +15,4 @@
 [[Find Kth Largest Integer in the Array - LC 1985]]
 [[Quickselect]]
 [[Kadane's Algorithm]]
-[[arrays]]
+[[best]]
