@@ -1,5 +1,5 @@
 - [ ]  OS
-	- [ ] Kernel [[Kernel]]
+	- [ ] Kernel 
 	- [ ] Semaphores / Mutex
 	- [ ] Producer - Consumer Problem
 	- [ ] Dining Philosopher's Problem
@@ -15,7 +15,7 @@
 	- [ ] Threads and Processes
 	- [ ] Paging
 - [ ] DBMS
-	- [ ] [[Normalization]]
+	- [ ] Normalization
 	- [x] ACID Properties
 	- [ ] Joins
 	- [ ] Nth Highest
