@@ -31,4 +31,4 @@ _One thing needs to be mentioned is that when asked to find maximum substring, w
 ### Practice Problems:
 [[Minimum Window Substring - LC 76]]
 [[Longest Substring Without Repeating Characters - LC 3]]
-[[**Longest Substring with At Most Two Distinct Characters**]]
+[[Longest Substring with At Most Two Distinct Characters]]

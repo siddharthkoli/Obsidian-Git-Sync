@@ -1,0 +1,4 @@
+[[Check if a number is intergral power of 2]]
+[[Highest power of 2 less than or equal to n]]
+[[Smallest power of 2 greater than or equal to n]]
+[[Lower Bound]]
