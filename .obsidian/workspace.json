@@ -36,8 +36,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/Minimum Window Substring - LC 76.md",
-                "mode": "source",
+                "file": "Fundamentals/Upper Bound.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/Backspace String Character LC-844.md",
+                "file": "Fundamentals/Upper Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/Backspace String Character LC-844.md",
+                "file": "Fundamentals/Upper Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/Backspace String Character LC-844.md"
+                "file": "Fundamentals/Upper Bound.md"
               }
             }
           },
@@ -308,8 +308,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf17345045637123",
+  "active": "008f718dec3a2530",
   "lastOpenFiles": [
+    "Fundamentals/Lower Bound.md",
+    "Strings/Minimum Window Substring - LC 76.md",
     "Untitled.md",
     "0 TOPICS - DSA.md",
     "Matrix.md",
@@ -317,8 +319,6 @@
     "Linked List.md",
     "Graphs.md",
     "0 TOPICS - NON DSA.md",
-    "Strings/General Substring Problem template.md",
-    "Arrays.md",
-    "Arrays/First Missing Positive - LC 41.md"
+    "Strings/General Substring Problem template.md"
   ]
 }
