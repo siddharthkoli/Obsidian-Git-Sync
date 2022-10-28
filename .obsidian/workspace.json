@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d4cd87b3d200e56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e10cbe201d03bb69",
+  "active": "4d4cd87b3d200e56",
   "lastOpenFiles": [
     "Fundamentals/Upper Bound.md",
     "Arrays.md",
