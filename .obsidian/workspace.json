@@ -44,6 +44,19 @@
             }
           },
           {
+            "id": "da93357d30f60819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b585b8d08e55bab1",
             "type": "leaf",
             "state": {
@@ -182,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
+                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
+                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -288,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Upper Bound.md"
+                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md"
               }
             }
           },
@@ -308,8 +321,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "008f718dec3a2530",
+  "active": "da93357d30f60819",
   "lastOpenFiles": [
+    "Fundamentals/Upper Bound.md",
     "Fundamentals/Lower Bound.md",
     "Strings/Minimum Window Substring - LC 76.md",
     "Untitled.md",
@@ -318,7 +332,6 @@
     "Fundamentals.md",
     "Linked List.md",
     "Graphs.md",
-    "0 TOPICS - NON DSA.md",
-    "Strings/General Substring Problem template.md"
+    "0 TOPICS - NON DSA.md"
   ]
 }
