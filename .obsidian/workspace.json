@@ -47,13 +47,8 @@
             "id": "da93357d30f60819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -224,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimum win",
+                "query": "kmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +236,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,7 +257,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +273,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -300,9 +294,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md"
-              }
+              "state": {}
             }
           },
           {
@@ -321,17 +313,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da93357d30f60819",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
+    "2022-10-30.md",
+    "Graphs.md",
+    "Matrix.md",
+    "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
     "Fundamentals/Upper Bound.md",
     "Fundamentals/Lower Bound.md",
     "Strings/Minimum Window Substring - LC 76.md",
     "Untitled.md",
     "0 TOPICS - DSA.md",
-    "Matrix.md",
-    "Fundamentals.md",
-    "Linked List.md",
-    "Graphs.md",
-    "0 TOPICS - NON DSA.md"
+    "Fundamentals.md"
   ]
 }

@@ -1,3 +1,4 @@
+#BFS
 `if(vis[x][y]!=-1 && vis[x][y]>=t[3])` has 2 conditions. Both the conditions are explained below
 1.  `vis[x][y]!=-1` checks if the cell has already been visited.
 2.  `vis[x][y]>=t[3]` checks if we have already reached the cell via some previous path by removing ***lesser**** obstacles in that previous path. If we have reached the current cell via some previous path by removing ***lesser*** obstacles, it means that we have a greater chance of using this previous path to reach the destination, because we have scope to remove ***more*** obstacles in the upcoming un-visited cells using the previous path than using the current path.
@@ -43,4 +44,5 @@ public:
     }
 };
 ```
-	
+- Time: `O(M * N * K)`
+- Space: `O(M * N * K)`
