@@ -225,7 +225,7 @@
               "type": "search",
               "state": {
                 "query": "kmp",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -241,8 +241,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -315,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -324,15 +323,15 @@
   },
   "active": "da93357d30f60819",
   "lastOpenFiles": [
+    "Strings.md",
+    "Strings/Longest Happy Prefix - LC 1392.md",
+    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "2022-10-30.md",
     "Graphs.md",
     "Matrix.md",
     "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
     "Fundamentals/Upper Bound.md",
     "Fundamentals/Lower Bound.md",
-    "Strings/Minimum Window Substring - LC 76.md",
-    "Untitled.md",
-    "0 TOPICS - DSA.md",
-    "Fundamentals.md"
+    "Strings/Minimum Window Substring - LC 76.md"
   ]
 }
