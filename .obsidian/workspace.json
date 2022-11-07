@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -224,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lo",
+                "query": "longest increa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md"
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md"
               }
             }
           },
@@ -322,11 +322,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "259196d1ece512ce",
+  "active": "da93357d30f60819",
   "lastOpenFiles": [
+    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "Strings.md",
     "Strings/Longest Happy Prefix - LC 1392.md",
-    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "2022-10-30.md",
     "Graphs.md",
     "Matrix.md",
