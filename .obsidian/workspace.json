@@ -224,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kmp",
+                "query": "lo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +241,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -321,7 +322,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da93357d30f60819",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Strings.md",
     "Strings/Longest Happy Prefix - LC 1392.md",
