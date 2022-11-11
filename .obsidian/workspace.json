@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Principles/1. Customer Obsession.md",
+                "file": "Leadership Principles/2. Ownership.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/1. Customer Obsession.md",
+                "file": "Leadership Principles/2. Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/1. Customer Obsession.md",
+                "file": "Leadership Principles/2. Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/1. Customer Obsession.md"
+                "file": "Leadership Principles/2. Ownership.md"
               }
             }
           },
@@ -323,9 +323,9 @@
   },
   "active": "15af727a335d3c1d",
   "lastOpenFiles": [
+    "Leadership Principles/1. Customer Obsession.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Fundamentals/C++ Comparator.md",
-    "Leadership Principles/1. Customer Obsession.md",
     "Arrays/Longest Increasing Subsequence - LC 300.md",
     "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "Strings.md",
