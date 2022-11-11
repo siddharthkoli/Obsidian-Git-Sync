@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
+                "file": "Fundamentals/C++ Comparator.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
+                "file": "Fundamentals/C++ Comparator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
+                "file": "Fundamentals/C++ Comparator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md"
+                "file": "Fundamentals/C++ Comparator.md"
               }
             }
           },
@@ -322,17 +322,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "259196d1ece512ce",
+  "active": "da93357d30f60819",
   "lastOpenFiles": [
+    "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
+    "Fundamentals/C++ Comparator.md",
+    "Arrays/Longest Increasing Subsequence - LC 300.md",
     "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "Strings.md",
     "Strings/Longest Happy Prefix - LC 1392.md",
     "2022-10-30.md",
     "Graphs.md",
     "Matrix.md",
-    "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md",
-    "Fundamentals/Upper Bound.md",
-    "Fundamentals/Lower Bound.md",
-    "Strings/Minimum Window Substring - LC 76.md"
+    "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md"
   ]
 }
