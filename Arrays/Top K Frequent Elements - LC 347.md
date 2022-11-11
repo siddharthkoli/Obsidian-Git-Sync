@@ -99,3 +99,64 @@ public:
 ```
 - Time: `O(N)` when elements can be returned in any order. `O(N + K * logK)` when elements have to be returned in sorted order.
 - Space: `O(N)`
+
+# Approach 3: [[Quickselect]]
+1. Create freq map of numbers.
+2. Convert freq map to vector for using quickselect.
+3. Run quickselect on the freq map
+```cpp
+class Solution {
+    int quickselect(std::vector<std::pair<int, int>>& nums, int left, int right, int k) {
+        std::pair<int, int> pivot = nums[right];
+        int currInd = left;
+        for (int i = left; i < right; i++) {
+            if (nums[i].first <= pivot.first) {
+                std::swap(nums[i], nums[currInd]);
+                currInd++;
+            }
+        }
+        std::swap(nums[currInd], nums[right]);
+        // now, pivot is somewhere around the middle
+        // elements less than pivot are to the left of pivot (may not be sorted)
+        // elements greater than pivot are to the right of pivot (may not be sorted)
+        
+        if (currInd == k)
+            return currInd;
+        if (currInd < k) 
+            return quickselect(nums, currInd + 1, right, k);
+        return quickselect(nums, left, currInd - 1, k);
+    }
+    
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        // quickselect
+        // Time: O(N), Space: O(K)
+        std::vector<int> result(k);
+        std::unordered_map<int, int> hash;
+        for (auto x: nums)
+            hash[x]++;
+        
+        // convert hash to vector for using quickselect
+        std::vector<std::pair<int, int>> freq(hash.size()); 
+        int i = 0;
+        for (auto x: hash) {
+            freq[i] = {x.second, x.first};
+            i++;
+        }
+        
+        k = freq.size() - k; // kth largest from back is freq.size() - k from front
+        int ind = quickselect(freq, 0, freq.size() - 1, k);
+        // while (ind < freq.size()) {
+        //     result.push_back(freq[ind].second);
+        //     ind++;
+        // }
+        
+        // same as above commented code.
+        std::transform(freq.begin() + ind, freq.end(), result.begin(), [&](std::pair<int, int> x) {
+            return x.second;
+        });
+        return result;
+};
+```
+- Time: `O(N) avg`
+- Space: `O(N)`

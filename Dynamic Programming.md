@@ -1,1 +1,5 @@
 [[Longest Common Substring - LC 1143]]
+[[Best Time to Buy and Sell Stock IV - LC 188]]
+[[Best Time to Buy and Sell Stock II - LC 122]]
+[[Best Time to Buy and Sell Stock III - LC 123]]
+[[Buy and Sell stock with cooldown]]
