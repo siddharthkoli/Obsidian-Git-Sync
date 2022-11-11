@@ -224,7 +224,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longest increa",
+                "query": "compa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,7 +322,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da93357d30f60819",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
     "Strings.md",
