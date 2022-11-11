@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/4. Are Right, a lot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/4. Are Right, a lot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/4. Are Right, a lot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md"
+                "file": "Leadership Principles/4. Are Right, a lot.md"
               }
             }
           },
@@ -323,6 +323,7 @@
   },
   "active": "15af727a335d3c1d",
   "lastOpenFiles": [
+    "Leadership Principles/2. Ownership.md",
     "Leadership Principles/1. Customer Obsession.md",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Fundamentals/C++ Comparator.md",
@@ -331,7 +332,6 @@
     "Strings.md",
     "Strings/Longest Happy Prefix - LC 1392.md",
     "2022-10-30.md",
-    "Graphs.md",
-    "Matrix.md"
+    "Graphs.md"
   ]
 }
