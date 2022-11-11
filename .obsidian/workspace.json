@@ -1,22 +1,19 @@
 {
   "main": {
-    "id": "d7f6408cd1ad3f6f",
+    "id": "9cd438d61a03ecee",
     "type": "split",
     "children": [
       {
-        "id": "aa7c039bf93843b1",
+        "id": "732f9f508e36b107",
         "type": "tabs",
         "children": [
           {
-            "id": "7581d7a56e5102c3",
+            "id": "af53735561235df6",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "empty",
-=======
               "type": "markdown",
               "state": {
-                "file": "Strings/Backspace String Character LC-844.md",
+                "file": "Leadership Principles/Invent and Simplify.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,186 +21,34 @@
             }
           },
           {
-            "id": "cf17345045637123",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "008f718dec3a2530",
+            "id": "14e6f4cb75d238ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Upper Bound.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da93357d30f60819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b585b8d08e55bab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings/Longest Substring Without Repeating Characters - LC 3.md",
+                "file": "Leadership Principles/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "08efad5f49c3f071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings/General Substring Problem template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5132e82abc505ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aeb0fb46f96c73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ec34650a1271cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd4c9547e2dc3cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd63e43c9ee1e27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Subarray Sum Equals K - LC 560.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13babb9eab62a014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Top K Frequent Elements - LC 347.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2497af7d9813daa7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
-              "state": {}
-            }
-          },
-          {
-            "id": "6ae3bc159ed4d188",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d94d5a06ce38ede",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "706c949f0f4a9821",
+    "id": "1396cea8a45bf6a5",
     "type": "split",
     "children": [
       {
-        "id": "090a0be571fada9b",
+        "id": "9506cd5e0ef09aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a54e26ad69438b6",
+            "id": "4d37ffdf7d52bc51",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -213,58 +58,49 @@
             }
           },
           {
-            "id": "259196d1ece512ce",
+            "id": "bdfc23d010f256fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
                 "matchingCase": false,
-=======
-                "query": "compa",
-                "matchingCase": true,
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "44d81fdcd03a106d",
+            "id": "dc0e8051a4f4274c",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "44edaff412da4933",
+    "id": "5ba33f055f7e16da",
     "type": "split",
     "children": [
       {
-        "id": "b883af0e9f7882b2",
+        "id": "55c83956358b2ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d16ce6eb6be754f",
+            "id": "d519367ffe560456",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
+                "file": "Leadership Principles/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,22 +112,19 @@
             }
           },
           {
-            "id": "84ae4904e79ec541",
+            "id": "14cb06a6d8282133",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
+                "file": "Leadership Principles/Untitled.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "af5f5c3c354d9ea5",
+            "id": "6e7655f71c2094dd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -302,21 +135,17 @@
             }
           },
           {
-            "id": "19528588f82a0c3a",
+            "id": "ef16410caa7726e3",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md"
+                "file": "Leadership Principles/Untitled.md"
               }
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
             }
           },
           {
-            "id": "acf3aadaf01c612d",
+            "id": "22da18fa0a8df9c2",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -324,43 +153,24 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
-        "currentTab": 1
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "7a54e26ad69438b6",
+  "active": "14e6f4cb75d238ae",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Leadership Principles/Customer Satisfaction.md",
+    "Leadership Principles/Invent and Simplify.md",
+    "Leadership Principles/Learn and Ve Curious.md",
+    "Leadership Principles/Ownership.md",
+    "Leadership Principles/Have Backbone, Disagree, Fully Commit.md",
     "Leadership Principles/Failed at work.md",
     "Leadership Principles/Deliver Results.md",
-    "Leadership Principles/Have Backbone, Disagree, Fully Commit.md",
-    "Leadership Principles/Ownership.md",
-    "Leadership Principles/Invent and Simplify.md",
+    "Leadership Principles/Customer Satisfaction.md",
     "Leadership Principles/Are Right, a lot.md",
-    "Leadership Principles/Learn and Ve Curious.md",
-    "2022-10-28.md"
-=======
-  "active": "da93357d30f60819",
-  "lastOpenFiles": [
-    "Fundamentals/C++ Comparator.md",
-    "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
-    "Arrays/Longest Increasing Subsequence - LC 300.md",
-    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
-    "Strings.md",
-    "Strings/Longest Happy Prefix - LC 1392.md",
-    "2022-10-30.md",
-    "Graphs.md",
-    "Matrix.md",
-    "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md"
->>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
+    "Linked List/Reverse Linked List - LC 206.md",
+    "Graphs/Union Find (Disjoint Set Union).md"
   ]
 }
