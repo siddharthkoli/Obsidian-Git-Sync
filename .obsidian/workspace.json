@@ -11,7 +11,164 @@
             "id": "7581d7a56e5102c3",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
+=======
+              "type": "markdown",
+              "state": {
+                "file": "Strings/Backspace String Character LC-844.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf17345045637123",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "008f718dec3a2530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/Upper Bound.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da93357d30f60819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b585b8d08e55bab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings/Longest Substring Without Repeating Characters - LC 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08efad5f49c3f071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings/General Substring Problem template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5132e82abc505ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aeb0fb46f96c73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec34650a1271cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd4c9547e2dc3cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd63e43c9ee1e27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Subarray Sum Equals K - LC 560.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13babb9eab62a014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2497af7d9813daa7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
               "state": {}
             }
           },
@@ -32,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,8 +218,13 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
                 "matchingCase": false,
+=======
+                "query": "compa",
+                "matchingCase": true,
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +240,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,6 +261,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +281,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +306,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Arrays/Find Kth Largest Integer in the Array - LC 1985.md"
+              }
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
             }
           },
           {
@@ -147,13 +324,18 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 3
+=======
+        "currentTab": 1
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "7a54e26ad69438b6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -166,5 +348,19 @@
     "Leadership Principles/Are Right, a lot.md",
     "Leadership Principles/Learn and Ve Curious.md",
     "2022-10-28.md"
+=======
+  "active": "da93357d30f60819",
+  "lastOpenFiles": [
+    "Fundamentals/C++ Comparator.md",
+    "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
+    "Arrays/Longest Increasing Subsequence - LC 300.md",
+    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+    "Strings.md",
+    "Strings/Longest Happy Prefix - LC 1392.md",
+    "2022-10-30.md",
+    "Graphs.md",
+    "Matrix.md",
+    "Matrix/Shortest Path in a Grid with Obstacles Elimination - LC 1293.md"
+>>>>>>> 145f0953e6c8556fdf64a8d92768e3f46c3e9485
   ]
 }
