@@ -1,4 +1,3 @@
-
 S : Situation, T : Task, A: Action, R: Results
 
 -   S : friend wanted a investment reminder app which would send reminder invites via telegram api for parents. But did not want to have telegram app for the same
