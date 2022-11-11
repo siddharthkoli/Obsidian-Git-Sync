@@ -1,0 +1,11 @@
+S : Situation, T : Task, A: Action, R: Results
+
+-   S : was assigned 2 features in the previous role on a technolgy stack which was unfamiliar to me
+    
+-   T : Had to complete the features end to end within a period of 6 weeks
+    
+-   A :  Learned complete technology stack in 2 weeks and finished task with given period
+    
+-   R : Finished task within given deadline and work was appreciated
+    
+
