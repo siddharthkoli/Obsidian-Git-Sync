@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Principles/5. Learn and Be Curious.md",
+                "file": "Leadership Principles/6. Hire and develop the best.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/5. Learn and Be Curious.md",
+                "file": "Leadership Principles/6. Hire and develop the best.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/5. Learn and Be Curious.md",
+                "file": "Leadership Principles/6. Hire and develop the best.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/5. Learn and Be Curious.md"
+                "file": "Leadership Principles/6. Hire and develop the best.md"
               }
             }
           },
@@ -253,15 +253,15 @@
   },
   "active": "06e42fd34161b995",
   "lastOpenFiles": [
-    "Leadership Principles/4. Are Right, a lot.md",
     "Leadership Principles/5. Learn and Be Curious.md",
-    "Leadership Principles/15. Strive to be Earth's best employer.md",
-    "Leadership Principles/1. Customer Obsession.md",
-    "Leadership Principles/Failed at work.md",
-    "Leadership Principles/16. Success and scale, bring broad responsibility.md",
     "Leadership Principles/14. Deliver Results.md",
     "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
+    "Leadership Principles/7. Insist on highest standards.md",
     "Leadership Principles/12. Dive deep.md",
-    "Leadership Principles/11. Earn trust.md"
+    "Leadership Principles/11. Earn trust.md",
+    "Leadership Principles/10. Frugality.md",
+    "Leadership Principles/9. Bias for action.md",
+    "Leadership Principles/8. Think big.md",
+    "Leadership Principles/6. Hire and develop the best.md"
   ]
 }
