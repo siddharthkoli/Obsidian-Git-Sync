@@ -4,5 +4,6 @@
     "en-US",
     "en-GB"
   ],
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
