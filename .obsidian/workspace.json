@@ -182,6 +182,19 @@
             }
           },
           {
+            "id": "9d303d1ae747f3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b5763262e22d9a58",
             "type": "leaf",
             "state": {
@@ -208,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -274,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/14. Deliver Results.md",
+                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/14. Deliver Results.md",
+                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -314,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/14. Deliver Results.md"
+                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md"
               }
             }
           },
@@ -334,13 +347,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15af727a335d3c1d",
+  "active": "9d303d1ae747f3ab",
   "lastOpenFiles": [
+    "Leadership Principles/14. Deliver Results.md",
     "Leadership Principles/13. Have Backbone, Disagree, Fully Commit ✔.md",
     "Leadership Principles/Failed at work ✔.md",
     "Leadership Principles/16. Success and scale, bring broad responsibility.md",
     "Leadership Principles/15. Strive to be Earth's best employer.md",
-    "Leadership Principles/14. Deliver Results.md",
     "Leadership Principles/12. Dive deep.md",
     "Leadership Principles/11. Earn trust.md",
     "Leadership Principles/10. Frugality.md",
