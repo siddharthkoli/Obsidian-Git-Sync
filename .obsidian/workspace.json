@@ -195,6 +195,19 @@
             }
           },
           {
+            "id": "99affcffd29f90a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Word Ladder - LC 127.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b5763262e22d9a58",
             "type": "leaf",
             "state": {
@@ -221,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -287,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md",
+                "file": "Graphs/Word Ladder - LC 127.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md",
+                "file": "Graphs/Word Ladder - LC 127.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -327,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Binary Tree Maximum Path Sum - LC 124.md"
+                "file": "Graphs/Word Ladder - LC 127.md"
               }
             }
           },
@@ -347,8 +360,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d303d1ae747f3ab",
+  "active": "99affcffd29f90a4",
   "lastOpenFiles": [
+    "Trees/Binary Tree Maximum Path Sum - LC 124.md",
     "Leadership Principles/14. Deliver Results.md",
     "Leadership Principles/13. Have Backbone, Disagree, Fully Commit ✔.md",
     "Leadership Principles/Failed at work ✔.md",
@@ -357,7 +371,6 @@
     "Leadership Principles/12. Dive deep.md",
     "Leadership Principles/11. Earn trust.md",
     "Leadership Principles/10. Frugality.md",
-    "Leadership Principles/9. Bias for action.md",
-    "Leadership Principles/8. Think big.md"
+    "Leadership Principles/9. Bias for action.md"
   ]
 }
