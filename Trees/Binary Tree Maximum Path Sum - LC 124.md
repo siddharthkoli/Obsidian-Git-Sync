@@ -1,4 +1,6 @@
-If all the nodes in the tree are positive, the answer is the sum of all the nod
+If all the nodes in the tree are positive, the max path goes through the root.
+However, if the current node is negative, there is no point propagating the sum upwards in the dfs. Hence, the subtree sum can be considered for maxSum;
+
 ![[Pasted image 20221130193036.png]]
 For trees like these, the path is highlighted. It should be noted that path may not contain its children.
 
