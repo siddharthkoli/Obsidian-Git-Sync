@@ -1,15 +1,8 @@
+If all the nodes in the tree are positive, the answer is the sum of all the nod
+![[Pasted image 20221130193036.png]]
+For trees like these, the path is highlighted. It should be noted that path may not contain its children.
+
 ```cpp
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
     int findMaxPathSum(TreeNode* root, int& maxSum) {
         if (root == nullptr)
@@ -31,4 +24,4 @@ public:
 };
 ```
 - Time: `O(N)` since each node is visited only once.
-- Space: `O(H)` where `H` is the height of the tree which is generally `log N`. In the worst case, the tree is a linked list, so the height is `N` so complexity becomes 
+- Space: `O(H)` where `H` is the height of the tree which is generally `log N`. In the worst case, the tree is a linked list, so the height is `N` so complexity becomes `O(N)`.
