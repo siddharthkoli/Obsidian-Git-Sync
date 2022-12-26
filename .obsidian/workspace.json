@@ -200,7 +200,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Word Ladder - LC 127.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -280,7 +280,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Word Ladder - LC 127.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Word Ladder - LC 127.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -340,7 +341,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Word Ladder - LC 127.md"
+                "file": "Graphs.md"
               }
             }
           },
@@ -360,8 +361,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99affcffd29f90a4",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
+    "Graphs/Word Ladder - LC 127.md",
     "Trees/Binary Tree Maximum Path Sum - LC 124.md",
     "Leadership Principles/14. Deliver Results.md",
     "Leadership Principles/13. Have Backbone, Disagree, Fully Commit ✔.md",
@@ -370,7 +372,6 @@
     "Leadership Principles/15. Strive to be Earth's best employer.md",
     "Leadership Principles/12. Dive deep.md",
     "Leadership Principles/11. Earn trust.md",
-    "Leadership Principles/10. Frugality.md",
-    "Leadership Principles/9. Bias for action.md"
+    "Leadership Principles/10. Frugality.md"
   ]
 }

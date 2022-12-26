@@ -1,4 +1,5 @@
-Assume each word as a node connected to another node which is its one off. This forms a graph and we only ha
+Assume each word as a node connected to another node which is its one off. This forms a graph and we only have to find the shortest path from `beginWord` to `endWord`.
+This can easily be done using `BFS`.
 ```cpp
 using std::string;
 
