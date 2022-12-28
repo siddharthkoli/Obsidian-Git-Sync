@@ -262,7 +262,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longest common sub",
+                "query": "subsequ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
