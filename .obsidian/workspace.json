@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/Backspace String Character LC-844.md",
-                "mode": "source",
+                "file": "Strings/Longest Common Substring - LC 1143.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cf17345045637123",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           },
@@ -243,8 +233,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +262,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jump",
+                "query": "lcs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,6 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Strings/Longest Common Substring - LC 1143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,6 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Strings/Longest Common Substring - LC 1143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +339,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Strings/Longest Common Substring - LC 1143.md"
+              }
             }
           },
           {
@@ -378,8 +371,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf17345045637123",
+  "active": "e10cbe201d03bb69",
   "lastOpenFiles": [
+    "Strings/Backspace String Character LC-844.md",
     "Fundamentals/Upper Bound.md",
     "Graphs.md",
     "Graphs/Word Ladder - LC 127.md",
@@ -388,7 +382,6 @@
     "Leadership Principles/13. Have Backbone, Disagree, Fully Commit ✔.md",
     "Leadership Principles/Failed at work ✔.md",
     "Leadership Principles/16. Success and scale, bring broad responsibility.md",
-    "Leadership Principles/15. Strive to be Earth's best employer.md",
-    "Leadership Principles/12. Dive deep.md"
+    "Leadership Principles/15. Strive to be Earth's best employer.md"
   ]
 }
