@@ -262,7 +262,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lcs",
+                "query": "longest common sub",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -371,7 +371,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10cbe201d03bb69",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Strings/Backspace String Character LC-844.md",
     "Fundamentals/Upper Bound.md",
