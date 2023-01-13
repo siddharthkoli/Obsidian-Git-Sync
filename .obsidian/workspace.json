@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md"
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
               }
             }
           },
@@ -253,15 +253,15 @@
   },
   "active": "06e42fd34161b995",
   "lastOpenFiles": [
+    "Graphs/Strongly Connected Components.md",
+    "Graphs/Accounts Merge - LC 721.md",
+    "Linked List/Middle of a Linked List LC 876.md",
+    "Linked List/Delete Node in a Linked List LC 237.md",
+    "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
     "Leadership Principles/10. Frugality.md",
     "Leadership Principles/9. Bias for action.md",
     "Leadership Principles/7. Insist on highest standards.md",
     "Leadership Principles/6. Hire and develop the best.md",
-    "Leadership Principles/5. Learn and Be Curious.md",
-    "Leadership Principles/14. Deliver Results.md",
-    "Leadership Principles/13. Have Backbone, Disagree, Fully Commit.md",
-    "Leadership Principles/12. Dive deep.md",
-    "Leadership Principles/11. Earn trust.md",
-    "Leadership Principles/8. Think big.md"
+    "Leadership Principles/5. Learn and Be Curious.md"
   ]
 }
