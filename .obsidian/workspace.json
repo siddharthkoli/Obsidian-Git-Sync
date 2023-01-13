@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06e42fd34161b995",
+  "active": "bdfc23d010f256fe",
   "lastOpenFiles": [
     "Graphs/Strongly Connected Components.md",
     "Graphs/Accounts Merge - LC 721.md",
