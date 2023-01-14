@@ -11,8 +11,13 @@
             "id": "56e16c925f6e4d79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disjoint",
+                "query": "union",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
+              }
             }
           },
           {
@@ -149,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259196d1ece512ce",
+  "active": "56e16c925f6e4d79",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
