@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "union",
+                "query": "topo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56e16c925f6e4d79",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
