@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Fundamentals/Upper Bound.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bound",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Fundamentals/Upper Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Fundamentals/Upper Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md"
+                "file": "Fundamentals/Upper Bound.md"
               }
             }
           },
@@ -158,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259196d1ece512ce",
+  "active": "56e16c925f6e4d79",
   "lastOpenFiles": [
+    "Fundamentals/Lower Bound.md",
+    "Fundamentals/Upper Bound.md",
+    "Graphs/Union Find (Disjoint Set Union).md",
     "Untitled.canvas",
     "Arrays/Find Kth Largest Integer in the Array - LC 1985.md",
     "Leadership Principles/5. Learn and Be Curious.md",
     "Strings/Longest Common Substring - LC 1143.md",
     "Strings/Backspace String Character LC-844.md",
-    "Fundamentals/Upper Bound.md",
     "Graphs.md",
-    "Graphs/Word Ladder - LC 127.md",
-    "Trees/Binary Tree Maximum Path Sum - LC 124.md",
-    "Leadership Principles/14. Deliver Results.md"
+    "Graphs/Word Ladder - LC 127.md"
   ]
 }
