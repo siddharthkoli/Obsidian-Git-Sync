@@ -26,8 +26,10 @@ int maxSubarraySum(std::vector<int>& nums) {
 		if (mxHere < 0)
 			mxHere = 0;
 		mxSoFar = std::max(mxSoFar, mxHere);
-		mxElement = std::maXx
+		mxElement = std::max(mxElement, x);
 	}
+	if (mxHere == 0)
+		mxSoFar = mxElement;
 	return mxSoFar;
 }
 ```
