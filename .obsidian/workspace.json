@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Subarrays with atmost K distinct elements.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kadane's ",
+                "query": "union",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Subarrays with atmost K distinct elements.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Subarrays with atmost K distinct elements.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Subarrays with atmost K distinct elements.md"
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
               }
             }
           },
@@ -185,13 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259196d1ece512ce",
+  "active": "934e1724108ae1e7",
   "lastOpenFiles": [
+    "Arrays/Subarrays with atmost K distinct elements.md",
     "Arrays/Maximum Subarray Sum.md",
     "Arrays/Next Permutation.md",
     "Arrays/Increasing Triplet Subsequence - LC 334.md",
     "Arrays/Kadane's Algorithm.md",
-    "Arrays/Subarrays with atmost K distinct elements.md",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Fundamentals/Upper Bound.md",
     "Fundamentals/Lower Bound.md",
