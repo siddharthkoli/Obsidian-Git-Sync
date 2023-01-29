@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "934e1724108ae1e7",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Arrays/Maximum Subarray Sum.md",
     "Arrays/Next Permutation.md",
