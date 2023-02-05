@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "union",
+                "query": "space",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "934e1724108ae1e7",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
     "Arrays/Subarrays with atmost K distinct elements.md",
     "Arrays/Maximum Subarray Sum.md",
