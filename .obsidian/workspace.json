@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space",
+                "query": "split",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
