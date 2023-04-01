@@ -27,8 +27,13 @@
             "id": "32cfb39fc13ad611",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/Lower Bound.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -61,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lower bound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fundamentals/Lower Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamentals/Lower Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fundamentals/Lower Bound.md"
+              }
             }
           },
           {
@@ -166,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32cfb39fc13ad611",
+  "active": "bdfc23d010f256fe",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Leadership Principles/7. Insist on highest standards.md",
