@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Arrays/Maximum Product Subarray - LC 152.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Arrays/Maximum Product Subarray - LC 152.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md"
+                "file": "Arrays/Maximum Product Subarray - LC 152.md"
               }
             }
           },
