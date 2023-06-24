@@ -37,22 +37,17 @@
             "id": "934e1724108ae1e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "435f2e42b5cc0308",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "right": {
     "id": "44edaff412da4933",
@@ -126,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
+              }
             }
           },
           {
@@ -193,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "435f2e42b5cc0308",
+  "active": "934e1724108ae1e7",
   "lastOpenFiles": [
     "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Maximum Product Subarray - LC 152.md",

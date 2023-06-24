@@ -9,7 +9,8 @@ public:
             parent[i] = i;
     }
 
-	/* returns a const reference to the private parent container
+	/* 
+	   returns a const reference to the private parent container
 	   since there is no way to access parent if required from outside.
 	*/
     std::vector<int> const& getParent() const {
