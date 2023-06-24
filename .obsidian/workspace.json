@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Accounts Merge - LC 721.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsu",
+                "query": "union",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Accounts Merge - LC 721.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Accounts Merge - LC 721.md",
+                "file": "Graphs/Union Find (Disjoint Set Union).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Accounts Merge - LC 721.md"
+                "file": "Graphs/Union Find (Disjoint Set Union).md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "934e1724108ae1e7",
   "lastOpenFiles": [
+    "Graphs/Accounts Merge - LC 721.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Arrays/Subarrays with atmost K distinct elements.md",
