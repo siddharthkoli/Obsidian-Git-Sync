@@ -40,9 +40,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "435f2e42b5cc0308",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,9 +97,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fa38fb0db3f607d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934e1724108ae1e7",
+  "active": "435f2e42b5cc0308",
   "lastOpenFiles": [
     "Graphs/Union Find (Disjoint Set Union).md",
     "Arrays/Maximum Product Subarray - LC 152.md",
