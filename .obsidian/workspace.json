@@ -29,15 +29,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Lower Bound.md",
+                "file": "Graphs.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd9bc9bc927e81bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lower bound",
+                "query": "graph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Lower Bound.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Lower Bound.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Lower Bound.md"
+                "file": "Graphs.md"
               }
             }
           },
@@ -175,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdfc23d010f256fe",
+  "active": "cd9bc9bc927e81bd",
   "lastOpenFiles": [
+    "Fundamentals/Lower Bound.md",
     "conflict-files-obsidian-git.md",
     "Leadership Principles/7. Insist on highest standards.md",
     "Leadership Principles/8. Think big.md",
@@ -185,7 +196,6 @@
     "Leadership Principles/12. Dive deep.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Graphs/Strongly Connected Components.md",
-    "Graphs/Accounts Merge - LC 721.md",
-    "Linked List/Middle of a Linked List LC 876.md"
+    "Graphs/Accounts Merge - LC 721.md"
   ]
 }
