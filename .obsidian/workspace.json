@@ -37,8 +37,26 @@
             "id": "934e1724108ae1e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Strings/Longest Palindromic Substring - LC 5.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eded3ba2e91e946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -71,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sligin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "44edaff412da4933",
@@ -118,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays/Maximum Product Subarray - LC 152.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arrays/Maximum Product Subarray - LC 152.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arrays/Maximum Product Subarray - LC 152.md"
+              }
             }
           },
           {
@@ -185,14 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934e1724108ae1e7",
+  "active": "259196d1ece512ce",
   "lastOpenFiles": [
+    "Strings.md",
+    "Strings/Longest Common Prefix - LC 14.md",
+    "Strings/Longest Palindromic Substring - LC 5.md",
+    "Arrays/Maximum Subarray Sum.md",
+    "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings/General Substring Problem template.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Graphs/Accounts Merge - LC 721.md",
-    "Arrays/Maximum Product Subarray - LC 152.md",
     "Arrays/Subarrays with atmost K distinct elements.md",
-    "Arrays/Maximum Subarray Sum.md",
     "Arrays/Next Permutation.md",
     "Arrays/Increasing Triplet Subsequence - LC 334.md",
     "Arrays/Kadane's Algorithm.md",
