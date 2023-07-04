@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Top K Frequent Elements - LC 347.md",
+                "file": "Arrays/Sliding Window 2 Pointers Template.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Top K Frequent Elements - LC 347.md",
+                "file": "Arrays/Sliding Window 2 Pointers Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Top K Frequent Elements - LC 347.md",
+                "file": "Arrays/Sliding Window 2 Pointers Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Top K Frequent Elements - LC 347.md"
+                "file": "Arrays/Sliding Window 2 Pointers Template.md"
               }
             }
           },
@@ -208,6 +207,8 @@
   },
   "active": "934e1724108ae1e7",
   "lastOpenFiles": [
+    "Arrays/Top K Frequent Elements - LC 347.md",
+    "Arrays/Sliding Window 2 Pointers Template.md",
     "Arrays/Subarrays with atmost K distinct elements.md",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings/Longest Substring Without Repeating Characters - LC 3.md",
