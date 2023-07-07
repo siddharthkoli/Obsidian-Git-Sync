@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "54b4eb66d9bcad9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6eded3ba2e91e946",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Sliding Window 2 Pointers Template.md",
+                "file": "Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Sliding Window 2 Pointers Template.md",
+                "file": "Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Sliding Window 2 Pointers Template.md"
+                "file": "Strings.md"
               }
             }
           },
@@ -205,10 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934e1724108ae1e7",
+  "active": "54b4eb66d9bcad9c",
   "lastOpenFiles": [
-    "Arrays/Top K Frequent Elements - LC 347.md",
+    "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
     "Arrays/Sliding Window 2 Pointers Template.md",
+    "Arrays/Top K Frequent Elements - LC 347.md",
     "Arrays/Subarrays with atmost K distinct elements.md",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings/Longest Substring Without Repeating Characters - LC 3.md",
