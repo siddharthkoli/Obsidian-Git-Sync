@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings.md",
+                "file": "Strings/General Substring Problem template.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "start",
+                "query": "template",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings.md",
+                "file": "Strings/General Substring Problem template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings.md",
+                "file": "Strings/General Substring Problem template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings.md"
+                "file": "Strings/General Substring Problem template.md"
               }
             }
           },
@@ -220,6 +221,7 @@
   },
   "active": "54b4eb66d9bcad9c",
   "lastOpenFiles": [
+    "Strings.md",
     "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
     "Arrays/Sliding Window 2 Pointers Template.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
@@ -232,7 +234,6 @@
     "Arrays/Gas Stations - LC 134.md",
     "Arrays/Continuous Subarray Sum - LC 523.md",
     "Arrays/Check if There is a Valid Partition For The Array - LC 2369.md",
-    "Strings.md",
     "Strings/Longest Common Prefix - LC 14.md",
     "Arrays/Maximum Subarray Sum.md",
     "Strings/General Substring Problem template.md",
