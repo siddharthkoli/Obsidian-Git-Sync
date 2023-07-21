@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings.md",
+                "file": "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
+                "file": "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
+                "file": "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md"
+                "file": "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md"
               }
             }
           },
@@ -219,10 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54b4eb66d9bcad9c",
+  "active": "6eded3ba2e91e946",
   "lastOpenFiles": [
-    "Strings/General Substring Problem template.md",
     "Strings.md",
+    "Arrays/Longest Increasing Subsequence - LC 300.md",
+    "Strings/General Substring Problem template.md",
     "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
     "Arrays/Sliding Window 2 Pointers Template.md",
     "Arrays/Top K Frequent Elements - LC 347.md",
@@ -230,7 +231,6 @@
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings/Longest Substring Without Repeating Characters - LC 3.md",
     "Strings/Longest Palindromic Substring - LC 5.md",
-    "Arrays/Longest Increasing Subsequence - LC 300.md",
     "Arrays/Jump Game - LC 55.md",
     "Arrays/Gas Stations - LC 134.md",
     "Arrays/Continuous Subarray Sum - LC 523.md",
