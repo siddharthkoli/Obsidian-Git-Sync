@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/General Substring Problem template.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "longest",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/General Substring Problem template.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/General Substring Problem template.md",
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/General Substring Problem template.md"
+                "file": "Arrays/Longest Increasing Subsequence - LC 300.md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "54b4eb66d9bcad9c",
   "lastOpenFiles": [
+    "Strings/General Substring Problem template.md",
     "Strings.md",
     "Strings/Maximum Number of Occurrences of a Substring - LC 1297.md",
     "Arrays/Sliding Window 2 Pointers Template.md",
@@ -236,7 +237,6 @@
     "Arrays/Check if There is a Valid Partition For The Array - LC 2369.md",
     "Strings/Longest Common Prefix - LC 14.md",
     "Arrays/Maximum Subarray Sum.md",
-    "Strings/General Substring Problem template.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Graphs/Accounts Merge - LC 721.md",
     "Arrays/Next Permutation.md",
