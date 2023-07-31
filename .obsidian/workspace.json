@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "longest",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eded3ba2e91e946",
+  "active": "7a54e26ad69438b6",
   "lastOpenFiles": [
     "Strings.md",
     "Arrays/Longest Increasing Subsequence - LC 300.md",
