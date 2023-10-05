@@ -1,9 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "vimMode": false,
   "alwaysUpdateLinks": true
 }
