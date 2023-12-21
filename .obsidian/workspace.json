@@ -89,9 +89,12 @@
             "id": "a483277408257d94",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Fundamentals/Check if a number is intergral power of 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -125,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Longest increasing",
+                "query": "power of 2",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Fundamentals/Check if a number is intergral power of 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Fundamentals/Check if a number is intergral power of 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md"
+                "file": "Fundamentals/Check if a number is intergral power of 2.md"
               }
             }
           },
