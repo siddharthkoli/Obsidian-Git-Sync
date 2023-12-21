@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8815cb0c4706bfb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings/Longest Common Prefix - LC 14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "power of 2",
+                "query": "longest common",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Check if a number is intergral power of 2.md",
+                "file": "Strings/Longest Common Prefix - LC 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Check if a number is intergral power of 2.md",
+                "file": "Strings/Longest Common Prefix - LC 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Check if a number is intergral power of 2.md"
+                "file": "Strings/Longest Common Prefix - LC 14.md"
               }
             }
           },
@@ -245,7 +258,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a483277408257d94",
+  "active": "8815cb0c4706bfb8",
   "lastOpenFiles": [
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings.md",
