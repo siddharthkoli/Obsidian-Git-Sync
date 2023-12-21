@@ -84,9 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a483277408257d94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -231,7 +241,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a74cfb2b11f19108",
+  "active": "a483277408257d94",
   "lastOpenFiles": [
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings.md",
