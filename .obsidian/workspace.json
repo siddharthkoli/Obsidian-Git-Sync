@@ -104,25 +104,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/Longest Common Prefix - LC 14.md",
+                "file": "System Design/Performance vs Scalability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9074b0f95a03695",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/Longest Common Prefix - LC 14.md",
+                "file": "System Design/Performance vs Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/Longest Common Prefix - LC 14.md",
+                "file": "System Design/Performance vs Scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/Longest Common Prefix - LC 14.md"
+                "file": "System Design/Performance vs Scalability.md"
               }
             }
           },
@@ -268,8 +257,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9074b0f95a03695",
+  "active": "8815cb0c4706bfb8",
   "lastOpenFiles": [
+    "Strings/Longest Common Prefix - LC 14.md",
+    "System Design/Performance vs Scalability.md",
+    "System Design",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings.md",
     "Arrays/Longest Increasing Subsequence - LC 300.md",
@@ -284,7 +276,6 @@
     "Arrays/Gas Stations - LC 134.md",
     "Arrays/Continuous Subarray Sum - LC 523.md",
     "Arrays/Check if There is a Valid Partition For The Array - LC 2369.md",
-    "Strings/Longest Common Prefix - LC 14.md",
     "Arrays/Maximum Subarray Sum.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Graphs/Accounts Merge - LC 721.md",
