@@ -11,6 +11,8 @@ Networks aren't reliable, so you'll need to support partition tolerance. You'll 
 Given that networks aren't completely reliable, you must tolerate partitions in a distributed system, period. This means we are left with two options: Consistency and Availability.
 
 - **CP** - Consistency/Partition Tolerance - Wait for a response from the partitioned node which could result in a timeout error. The system can also choose to return an error, depending on the scenario you desire. Choose Consistency over Availability when your business requirements dictate atomic reads and writes.
-		Basically - Give the most latest write. If not throw error
+		Basically - Give the most latest write. If not throw error or wait for system to become consistent.
 - **AP** - Availability/Partition Tolerance - Return the most recent version of the data you have, which could be stale. This system state will also accept writes that can be processed later when the partition is resolved. Choose Availability over Consistency when your business requirements allow for some flexibility around when the data in the system synchronizes.
+		 Basically - Return response at any cost. Response could be stale.
+
 
