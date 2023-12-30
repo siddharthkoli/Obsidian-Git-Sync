@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Performance vs Scalability.md",
+                "file": "System Design/Latency vs throughput.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/Performance vs Scalability.md",
+                "file": "System Design/Latency vs throughput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/Performance vs Scalability.md",
+                "file": "System Design/Latency vs throughput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/Performance vs Scalability.md"
+                "file": "System Design/Latency vs throughput.md"
               }
             }
           },
@@ -259,8 +259,9 @@
   },
   "active": "8815cb0c4706bfb8",
   "lastOpenFiles": [
-    "Strings/Longest Common Prefix - LC 14.md",
     "System Design/Performance vs Scalability.md",
+    "System Design/Latency vs throughput.md",
+    "Strings/Longest Common Prefix - LC 14.md",
     "System Design",
     "Arrays/Maximum Product Subarray - LC 152.md",
     "Strings.md",
