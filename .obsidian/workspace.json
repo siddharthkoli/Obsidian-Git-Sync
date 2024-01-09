@@ -1,39 +1,35 @@
 {
   "main": {
-    "id": "d7f6408cd1ad3f6f",
+    "id": "9cd438d61a03ecee",
     "type": "split",
     "children": [
       {
         "id": "d4067cd39625f1bb",
-        "id": "d7d0e1d83999ce22",
         "type": "tabs",
         "children": [
           {
             "id": "2aebe9dbefbd0ae0",
-            "id": "56e16c925f6e4d79",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Maximum Product Subarray - LC 152.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
             }
           },
           {
             "id": "8fe2bee496c8f498",
-            "id": "0ec189fe4054b934",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "32cfb39fc13ad611",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Maximum Subarray Sum.md",
+                "file": "Graphs.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -41,13 +37,22 @@
             }
           },
           {
-            "id": "32cfb39fc13ad611",
-            "id": "934e1724108ae1e7",
+            "id": "cd9bc9bc927e81bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "6213e859cf43a27b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,21 +60,21 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "706c949f0f4a9821",
+    "id": "1396cea8a45bf6a5",
     "type": "split",
     "children": [
       {
-        "id": "090a0be571fada9b",
+        "id": "9506cd5e0ef09aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a54e26ad69438b6",
+            "id": "4d37ffdf7d52bc51",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,22 +84,22 @@
             }
           },
           {
-            "id": "259196d1ece512ce",
+            "id": "bdfc23d010f256fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "split",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "44d81fdcd03a106d",
+            "id": "dc0e8051a4f4274c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,28 +114,27 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 300
   },
   "right": {
-    "id": "44edaff412da4933",
+    "id": "5ba33f055f7e16da",
     "type": "split",
     "children": [
       {
-        "id": "b883af0e9f7882b2",
+        "id": "55c83956358b2ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d16ce6eb6be754f",
+            "id": "d519367ffe560456",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,19 +146,19 @@
             }
           },
           {
-            "id": "84ae4904e79ec541",
+            "id": "14cb06a6d8282133",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md",
+                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "af5f5c3c354d9ea5",
+            "id": "6e7655f71c2094dd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,17 +169,17 @@
             }
           },
           {
-            "id": "19528588f82a0c3a",
+            "id": "ef16410caa7726e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs/Union Find (Disjoint Set Union).md"
+                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md"
               }
             }
           },
           {
-            "id": "acf3aadaf01c612d",
+            "id": "22da18fa0a8df9c2",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -201,17 +205,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259196d1ece512ce",
+  "active": "6213e859cf43a27b",
   "lastOpenFiles": [
-    "Arrays/Subarrays with atmost K distinct elements.md",
-    "Arrays/Maximum Subarray Sum.md",
-    "Arrays/Next Permutation.md",
-    "Arrays/Increasing Triplet Subsequence - LC 334.md",
-    "Arrays/Kadane's Algorithm.md",
-    "Arrays/Maximum Product Subarray - LC 152.md",
-    "Fundamentals/Upper Bound.md",
-    "Fundamentals/Lower Bound.md",
+    "Database Design.md",
     "Graphs/Union Find (Disjoint Set Union).md",
-    "Untitled.canvas"
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "0 TOPICS - DSA.md",
+    "Graphs/Accounts Merge - LC 721.md",
+    "System Design - P",
+    "Arrays/Subarrays with atmost K distinct elements.md",
+    "Fundamentals/Lower Bound.md",
+    "Leadership Principles/7. Insist on highest standards.md",
+    "Leadership Principles/8. Think big.md",
+    "Leadership Principles/9. Bias for action.md",
+    "Leadership Principles/11. Earn trust.md",
+    "Leadership Principles/12. Dive deep.md",
+    "Graphs/Strongly Connected Components.md"
   ]
 }
