@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/6. Hire and develop the best ✔.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/6. Hire and develop the best ✔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md",
+                "file": "Leadership Principles/6. Hire and develop the best ✔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership Principles/2. Ownership.md"
+                "file": "Leadership Principles/6. Hire and develop the best ✔.md"
               }
             }
           },
@@ -207,8 +207,11 @@
   },
   "active": "6213e859cf43a27b",
   "lastOpenFiles": [
-    "Leadership Principles/1. Customer Obsession ✔.md",
+    "Leadership Principles/5. Learn and Be Curious.md",
+    "Leadership Principles/4. Are Right, a lot ✔.md",
     "Leadership Principles/3. Invent and Simplify ✔.md",
+    "Leadership Principles/2. Ownership.md",
+    "Leadership Principles/1. Customer Obsession ✔.md",
     "0 TOPICS - NON DSA.md",
     "0 TOPICS - DSA.md",
     "Pasted image 20221017162338.png",
@@ -233,7 +236,6 @@
     "Leadership Principles/8. Think big.md",
     "Leadership Principles/9. Bias for action.md",
     "Leadership Principles/11. Earn trust.md",
-    "Leadership Principles/12. Dive deep.md",
-    "Graphs/Strongly Connected Components.md"
+    "Leadership Principles/12. Dive deep.md"
   ]
 }
