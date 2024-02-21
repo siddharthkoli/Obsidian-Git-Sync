@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
-                "mode": "preview",
+                "file": "Leadership Principles/2. Ownership.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+                "file": "Leadership Principles/2. Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+                "file": "Leadership Principles/2. Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings/KMP (Knuth Morris Pratt) - String Matching.md"
+                "file": "Leadership Principles/2. Ownership.md"
               }
             }
           },
@@ -207,8 +207,13 @@
   },
   "active": "6213e859cf43a27b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Leadership Principles/1. Customer Obsession ✔.md",
+    "Leadership Principles/3. Invent and Simplify ✔.md",
+    "0 TOPICS - NON DSA.md",
+    "0 TOPICS - DSA.md",
+    "Pasted image 20221017162338.png",
     "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+    "conflict-files-obsidian-git.md",
     "System Design/Performance vs Scalability.md",
     "System Design/Latency vs throughput.md",
     "System Design/Consistency Patterns.md",
@@ -220,7 +225,6 @@
     "Database Design.md",
     "Graphs/Union Find (Disjoint Set Union).md",
     "Untitled.canvas",
-    "0 TOPICS - DSA.md",
     "Graphs/Accounts Merge - LC 721.md",
     "System Design - P",
     "Arrays/Subarrays with atmost K distinct elements.md",
