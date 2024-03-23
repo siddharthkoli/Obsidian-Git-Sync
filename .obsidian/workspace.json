@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Longest Increasing Subsequence - LC 300.md",
-                "mode": "preview",
+                "file": "Leadership Principles/Failed at work ✔.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrays/Maximum Product Subarray - LC 152.md",
+                "file": "Leadership Principles/Failed at work ✔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrays/Maximum Product Subarray - LC 152.md",
+                "file": "Leadership Principles/Failed at work ✔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays/Maximum Product Subarray - LC 152.md"
+                "file": "Leadership Principles/Failed at work ✔.md"
               }
             }
           },
@@ -259,6 +259,29 @@
   },
   "active": "7a54e26ad69438b6",
   "lastOpenFiles": [
+    "Leadership Principles/16. Success and scale, bring broad responsibility.md",
+    "Leadership Principles/15. Strive to be Earth's best employer.md",
+    "Leadership Principles/14. Deliver Results.md",
+    "Leadership Principles/13. Have Backbone, Disagree, Fully Commit ✔.md",
+    "Leadership Principles/12. Dive deep.md",
+    "Leadership Principles/11. Earn trust.md",
+    "Leadership Principles/10. Frugality.md",
+    "Leadership Principles/9. Bias for action.md",
+    "Leadership Principles/8. Think big.md",
+    "Leadership Principles/7. Insist on highest standards.md",
+    "Leadership Principles/6. Hire and develop the best ✔.md",
+    "Leadership Principles/5. Learn and Be Curious.md",
+    "Leadership Principles/4. Are Right, a lot ✔.md",
+    "Leadership Principles/3. Invent and Simplify ✔.md",
+    "Leadership Principles/2. Ownership.md",
+    "Leadership Principles/1. Customer Obsession ✔.md",
+    "0 TOPICS - NON DSA.md",
+    "0 TOPICS - DSA.md",
+    "Pasted image 20221017162338.png",
+    "Strings/KMP (Knuth Morris Pratt) - String Matching.md",
+    "conflict-files-obsidian-git.md",
+    "System Design/Performance vs Scalability.md",
+    "System Design/Latency vs throughput.md",
     "System Design/Consistency Patterns.md",
     "Untitled",
     "Database Design.md",
@@ -277,15 +300,7 @@
     "Arrays/Subarrays with atmost K distinct elements.md",
     "Strings/Longest Substring Without Repeating Characters - LC 3.md",
     "Strings/Longest Palindromic Substring - LC 5.md",
-    "Arrays/Jump Game - LC 55.md",
-    "Arrays/Gas Stations - LC 134.md",
-    "Arrays/Continuous Subarray Sum - LC 523.md",
-    "Arrays/Check if There is a Valid Partition For The Array - LC 2369.md",
-    "Arrays/Maximum Subarray Sum.md",
-    "Graphs/Union Find (Disjoint Set Union).md",
-    "Graphs/Accounts Merge - LC 721.md",
-    "Arrays/Next Permutation.md",
-    "Arrays/Increasing Triplet Subsequence - LC 334.md",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "System Design - P"
   ]
 }
