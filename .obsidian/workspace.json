@@ -110,9 +110,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd1d8548169839e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
         "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,6 +269,7 @@
     }
   },
   "active": "7a54e26ad69438b6",
+  "active": "dd1d8548169839e8",
   "lastOpenFiles": [
     "Leadership Principles/16. Success and scale, bring broad responsibility.md",
     "Leadership Principles/15. Strive to be Earth's best employer.md",
