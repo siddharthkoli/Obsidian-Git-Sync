@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "36f84c4f4ef7a08a",
+        "id": "4c061a8c07667ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "801de8eeb9c346ba",
+            "id": "588902e16f928a3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "top k frequ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arrays/Top K Frequent Elements - LC 347.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arrays/Top K Frequent Elements - LC 347.md"
+              }
             }
           }
         ]
@@ -139,6 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801de8eeb9c346ba",
-  "lastOpenFiles": []
+  "active": "588902e16f928a3d",
+  "lastOpenFiles": [
+    "Arrays/Top K Frequent Elements - LC 347.md"
+  ]
 }
