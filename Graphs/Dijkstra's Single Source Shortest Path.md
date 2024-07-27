@@ -21,8 +21,11 @@ vector<int> shortestPath(vector<vector<pair<int, int>>>& adj, int source) {
 			int newCost = currCost + edgeCost;
 			if (newCost < distance[v]) {
 				distance[v] = newCost;
+				pq.push({newCost, v});
 			}
 		}
 	}
+
+	return distance;
 }
 ```
