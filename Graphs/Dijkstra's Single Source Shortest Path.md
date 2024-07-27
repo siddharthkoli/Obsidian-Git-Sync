@@ -1,3 +1,4 @@
+#graphs #shortestpath
 Gives shortest path from `source` to all nodes in the graph
 
 ```cpp
@@ -30,4 +31,11 @@ vector<int> shortestPath(vector<vector<pair<int, int>>>& adj, int source) {
 }
 ```
 
-## Time Complexity:
+#### Time Complexity:
+`O(E * log V)` - Relaxing edges: O(E) to iterate over all edges, and O(log V) to update the priority queue for each edge, resulting in O(E log V)
+
+#### Space Complexity:
+`O(V + E)` -
+- Distance array: O(V) to store the shortest distances from the source node
+- Priority queue: O(V) to store the vertices to be processed.
+- Adjacency list or matrix: O(E) to store the graph edges
