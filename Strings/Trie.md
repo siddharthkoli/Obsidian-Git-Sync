@@ -49,31 +49,30 @@ public:
         }
         return true;
     }
-
+	
+	// erase function may not work 100% of the time
 	void erase(string word) {
-
-        TrieNode* p = this->root;
-
-        std::stack<TrieNode*> stack;
-
-        for (int i = 0; i < word.length(); i++) {
-
-            int ind = word[i] - 'a';
-
-            if (p->children[ind] == nullptr)
-                return;
-            stack.push(p);
-            p = p->children[ind];
-        }
-        p->isWord = false;
-
-        int i = word.length() - 1;
-        while (!stack.empty()) {
-            TrieNode* prev = stack.top(); stack.pop();
-            int ind = word[i--] - 'a';
-            prev->children[ind] = nullptr;
-            p = prev;
-        }
-    }
+	    TrieNode* p = this->root;
+	    std::stack<TrieNode*> stack;
+	    for (int i = 0; i < word.length(); i++) {
+	        int ind = word[i] - 'a';
+	        if (p->children[ind] == nullptr)
+	            return;
+	        stack.push(p);
+	        p = p->children[ind];
+	    }
+		
+	    p->isWord = false;
+		
+	    int i = word.length() - 1;
+	    while (!stack.empty()) {
+	        TrieNode* prev = stack.top(); stack.pop();
+	        int ind = word[i--] - 'a';
+	        prev->children[ind] = nullptr;
+	        p = prev;
+	    }
+	}
 };
 ```
+
+![[Pasted image 20240907233126.png]]
