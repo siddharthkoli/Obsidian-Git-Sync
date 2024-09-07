@@ -49,5 +49,31 @@ public:
         }
         return true;
     }
+
+	void erase(string word) {
+
+        TrieNode* p = this->root;
+
+        std::stack<TrieNode*> stack;
+
+        for (int i = 0; i < word.length(); i++) {
+
+            int ind = word[i] - 'a';
+
+            if (p->children[ind] == nullptr)
+                return;
+            stack.push(p);
+            p = p->children[ind];
+        }
+        p->isWord = false;
+
+        int i = word.length() - 1;
+        while (!stack.empty()) {
+            TrieNode* prev = stack.top(); stack.pop();
+            int ind = word[i--] - 'a';
+            prev->children[ind] = nullptr;
+            p = prev;
+        }
+    }
 };
 ```
