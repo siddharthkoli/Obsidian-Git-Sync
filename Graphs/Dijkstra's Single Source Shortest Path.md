@@ -16,7 +16,7 @@ vector<int> shortestPath(vector<vector<pair<int, int>>>& adj, int source) {
 		pq.pop();
 
 		// ignoring stale entries in the pq that were inserted earlier
-		// but since then the distance array was updated for that node
+		// but since then, the distance array was updated for that node
 		if (distance[u] < currCost)
 			continue;
 
