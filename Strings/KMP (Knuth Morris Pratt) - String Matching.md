@@ -16,12 +16,12 @@ class Solution {
 	    int n = pat.length();
 	    vector<int> pi(n);
 	    for (int i = 1; i < n; i++) {
-	        int j = pi[i-1];
-	        while (j > 0 && pat[j] != pat[i])
-	            j = pi[j-1];
-	        if (pat[j] == pat[i])
-	            j++;
-	        pi[i] = j;
+	        int length = pi[i-1];
+	        while (length > 0 && pat[length] != pat[i])
+	            length = pi[length-1];
+	        if (pat[length] == pat[i])
+	            length++;
+	        pi[i] = length;
 	    }
 	    return pi;
 	}
