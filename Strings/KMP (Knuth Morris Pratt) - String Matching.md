@@ -1,4 +1,4 @@
-#### Pi\[i] answers the following question: Given a pattern pat of length n, how many characters from the start (prefix) of the substring pat\[0...i] are also the suffix? The answer is Pi\[i].
+#### Pi\[i] answers the following question: Given a pattern pat of length n, how many characters from the start (proper prefix) of the substring pat\[0...i] are also the proper suffix? The answer is Pi\[i].
 
 ![[Pasted image 20220815192045.png]]
 So we did encounter the mismatch at some point in the comparison between the pattern and the target text. **E** is not equal to **C**, what a bummer. However, we can be sure that the pattern sub-string till the pattern pointer matches the target sub-string till the target pointer (red dashed line). Otherwise, we wouldn’t reach this point according to our definition of the second phase. Additionally, our LPS array for the current pattern sub-string tells us that the prefix of length `3` is equal to the suffix (shaded in green). With this information in hand, we can safely move the pattern pointer back to the fourth symbol (the first symbol after LPS) and leave the target pointer at the same place, as demonstrated below.
