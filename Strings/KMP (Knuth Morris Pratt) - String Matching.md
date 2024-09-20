@@ -10,6 +10,28 @@ So we did encounter the mismatch at some point in the comparison between the pat
 It’s guaranteed that the part of the pattern before the new pattern pointer matched the target string due to the definition of the LPS. It also holds true that we didn’t miss any possible matches between the current target pointer and the index at which we’ve started to compare last time. 
 
 
+### Algorithm to compute prefix function
+
+```cpp
+vector<int> pi(n);
+for (int i = 1; i < n; i++) {
+	int length = pi[i-1];
+	while (length > 0 && pat[length] != pat[i])
+		length = pi[length-1];
+	if (pat[length] == pat[i])
+		length++;
+	pi[i] = length;
+}
+```
+- Begin by setting `prefixTable[0] = 0` since there is no proper prefix for the first character.
+- Next, iterate over `i` from 1 to `n - 1`:
+    - Set `length = prefixTable[i - 1]`, which represents the longest prefix length for the substring up to the previous character.
+    - While `length > 0` and the character at position `i` doesn't match the character at position `length`, set `length = prefixTable[length - 1]`. This step is essential when we encounter a mismatch, and we attempt to match a shorter prefix, which is the value of `prefixTable[length - 1]`, until either we find a match or `length` becomes 0.
+    - If `s.charAt(i) == s.charAt(length)`, we increment `length` by 1 (extend the matching prefix).
+    - Finally, set `prefixTable[i] = length`.
+
+--------------------------------------------------------------------------
+
 ```cpp
 class Solution {
 	vector<int> computeLPS(const string& pat) {
