@@ -1,7 +1,8 @@
 ```cpp
 class TrieNode { 
  public:
-    std::vector<TrieNode*> children;
+    // std::vector<TrieNode*> children;
+    TrieNode* 
     bool isWord;
     TrieNode() : children(26) {
         this->isWord = false;
