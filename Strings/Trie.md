@@ -2,9 +2,9 @@
 class TrieNode { 
  public:
     // std::vector<TrieNode*> children;
-    TrieNode* 
+    TrieNode* chidlren[26] = {}; // prefer array over vector for fixed size
     bool isWord;
-    TrieNode() : children(26) {
+    TrieNode() {
         this->isWord = false;
     }
 };
