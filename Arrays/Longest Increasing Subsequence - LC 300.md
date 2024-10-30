@@ -50,7 +50,7 @@ Refer: [Neetcode](https://www.youtube.com/watch?v=cjWnW0hdF1Y)
 code:
 ```cpp
 class Solution {
-    // returns length of lis ending starting at i
+    // returns length of lis starting at i
     int lis(std::vector<int>& nums, int i, std::vector<int>& dp) {
         int mx = 1;
         if (dp[i] != -1)
