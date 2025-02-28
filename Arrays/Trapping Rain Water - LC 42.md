@@ -39,3 +39,6 @@ Time: `O(N)`
 Space: `O(N)`
 
 ### Method 2: Uses constant space
+
+Instead of using a vector to store all the left and right max columns, we can use 2 pointers to update them dynamically.
+the idea is that if a column is a max column, it'll not hold any water above it. If it's not a max column, there will be water above it. 
