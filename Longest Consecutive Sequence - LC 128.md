@@ -24,4 +24,5 @@ public:
 };
 ```
 
-Time: `O`
+Time: `O(N)`
+Space: ``
