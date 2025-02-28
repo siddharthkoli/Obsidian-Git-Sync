@@ -42,3 +42,34 @@ Space: `O(N)`
 
 Instead of using a vector to store all the left and right max columns, we can use 2 pointers to update them dynamically.
 the idea is that if a column is a max column, it'll not hold any water above it. If it's not a max column, there will be water above it. 
+
+```cpp
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        // time: O(N), space: O(1)
+        // refer: https://leetcode.com/problems/trapping-rain-water/discuss/153992/Java-O(n)-time-and-O(1)-space-(with-explanations).
+        int n = height.size(), res = 0;
+        int left = 0, right = n - 1;
+        int maxLeft = 0, maxRight = 0;
+        while (left < right) {
+            if (height[left] < height[right]) {
+                if (height[left] > maxLeft)
+                    maxLeft = height[left];
+                else
+                    res += maxLeft - height[left];
+                left++;
+            } else {
+                if (height[right] > maxRight)
+                    maxRight = height[right];
+                else
+                    res += maxRight - height[right];
+                right--;
+            }
+        }
+        return res;
+    }
+};
+```
+time: `O(N)`
+space: `O(1)`
