@@ -5,3 +5,4 @@
 [[Longest Happy Prefix - LC 1392]]
 [[Longest Palindromic Substring - LC 5]]
 [[Maximum Number of Occurrences of a Substring - LC 1297]]
+[[Longest Repeating Character Replacement  - LC 424]]
