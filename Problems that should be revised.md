@@ -7,3 +7,4 @@
 [[TODO - Median of 2 sorted arrays - LC 4]]
 [[TODO Largest rectangle in histogram - LC 84]]
 [[TODO Reorder LinkedList - LC 143]]
+[[TODO Find the Duplicate Number - LC 287]]
