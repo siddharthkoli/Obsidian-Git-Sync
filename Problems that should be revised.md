@@ -4,4 +4,6 @@
 [[Longest Repeating Character Replacement  - LC 424]]
 [[Sliding Window Maximum - LC 239]]
 [[Daily Temperatures - LC 739]]
-[[Median of 2 sorted arrays - LC 4]]
+[[TODO - Median of 2 sorted arrays - LC 4]]
+[[TODO Largest rectangle in histogram - LC 84]]
+[[TODO Reorder LinkedList - LC 143]]
